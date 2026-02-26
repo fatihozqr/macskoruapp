@@ -1,0 +1,26 @@
+name: AI Skor ve Analiz Botu
+on:
+  schedule:
+    - cron: '0 * * * *' # Her saat başı otomatik çalışır
+  workflow_dispatch: # İstediğinde elle çalıştırma butonu ekler
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Python Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Gerekli Kütüphaneleri Kur
+        run: pip install requests
+      - name: Botu Calistir
+        run: python bot.py
+      - name: Degisiklikleri GitHub'a Pushla
+        run: |
+          git config --global user.name 'BetAI-Bot'
+          git config --global user.email 'bot@github.com'
+          git add veriler.json
+          git commit -m "AI Analizleri Guncellendi" || exit 0
+          git push
