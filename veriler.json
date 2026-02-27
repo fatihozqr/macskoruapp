@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "27-02-2026 19:34",
+    "son_guncelleme": "27-02-2026 19:49",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -17,7 +17,7 @@
             "dep": "FC Arouca",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -27,7 +27,7 @@
             "dep": "NAC Breda",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -35,16 +35,6 @@
             "lig": "Bundesliga",
             "ev": "FC Augsburg",
             "dep": "1. FC Köln",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Serie A",
-            "ev": "Parma Calcio 1913",
-            "dep": "Cagliari Calcio",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -62,12 +52,32 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
+            "lig": "Serie A",
+            "ev": "Parma Calcio 1913",
+            "dep": "Cagliari Calcio",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
             "lig": "Championship",
             "ev": "Bristol City FC",
             "dep": "Watford FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "Levante UD",
+            "dep": "Deportivo Alavés",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -82,22 +92,12 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Primera Division",
-            "ev": "Levante UD",
-            "dep": "Deportivo Alavés",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
             "lig": "Primeira Liga",
             "ev": "Sporting Clube de Portugal",
             "dep": "GD Estoril Praia",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
