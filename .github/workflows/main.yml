@@ -1,32 +1,5 @@
-name: Mac Skor Guncelleme
-
-on:
-  schedule:
-    - cron: '*/5 * * * *' # Her 5 dakikada bir çalıştır
-  workflow_dispatch: # Manuel çalıştırma butonu
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Kodlari cek
-        uses: actions/checkout@v2
-      
-      - name: Python kur
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.9'
-      
-      - name: Kutuphaneleri kur
-        run: pip install requests
-      
-      - name: Botu calistir
+- name: Botu calistir
+        env:
+          FD_API_KEY: ${{ secrets.FD_API_KEY }}
+          RAPID_API_KEY: ${{ secrets.RAPID_API_KEY }}
         run: python bot.py
-      
-      - name: Guncel veriyi GitHub'a yukle
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git add veriler.json
-          git commit -m "Veriler Guncellendi"
-          git push
