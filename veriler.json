@@ -1,16 +1,15 @@
 {
-    "son_guncelleme": "27-02-2026 18:56",
+    "son_guncelleme": "27-02-2026 19:02",
     "canli_maclar": [
         {
             "lig": "Sistem",
-            "ev": "Veriler",
-            "dep": "Güncelleniyor",
+            "ev": "Maçlar",
+            "dep": "Yükleniyor",
             "skor": "0-0",
-            "dakika": 0,
-            "ai_tahmini": "Bülten Yükleniyor",
-            "ai_guven": "%--",
-            "ai_analiz": "Canlı maçlar birazdan listelenecek. Lütfen yenileyin."
+            "dakika": "0",
+            "ai_tahmini": "Bekleyiniz",
+            "ai_guven": "%0",
+            "ai_analiz": "API verisi bekleniyor."
         }
-    ],
-    "gelecek_maclar": []
+    ]
 }
