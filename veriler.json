@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "27-02-2026 11:50",
+    "son_guncelleme": "27-02-2026 14:10",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -36,17 +36,17 @@
             "saat": "19:30"
         },
         {
-            "lig": "Serie A",
-            "ev": "Parma",
-            "dep": "Cagliari",
+            "lig": "Ligue 1",
+            "ev": "Strasbourg",
+            "dep": "RC Lens",
             "skor": "None-None",
             "durum": "gelecek",
             "saat": "19:45"
         },
         {
-            "lig": "Ligue 1",
-            "ev": "Strasbourg",
-            "dep": "RC Lens",
+            "lig": "Serie A",
+            "ev": "Parma",
+            "dep": "Cagliari",
             "skor": "None-None",
             "durum": "gelecek",
             "saat": "19:45"
