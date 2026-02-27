@@ -1,15 +1,15 @@
 {
-    "son_guncelleme": "27-02-2026 18:39",
+    "son_guncelleme": "27-02-2026 18:43",
     "canli_maclar": [
         {
-            "lig": "Test Ligi",
-            "ev": "Yükleniyor Takımı",
-            "dep": "Analiz Takımı",
+            "lig": "Dünya Bülteni",
+            "ev": "Canlı Maç",
+            "dep": "Bekleniyor",
             "skor": "0-0",
             "dakika": 0,
-            "ai_tahmini": "Bülten Bekleniyor",
-            "ai_guven": "%0",
-            "ai_analiz": "Canlı bülten güncellendiğinde burada profesyonel analizler belirecek."
+            "ai_tahmini": "Bülten Hazırlanıyor",
+            "ai_guven": "%--",
+            "ai_analiz": "Şu an canlı maç bulunmuyor. Yeni maçlar başladığında AI analizleri burada belirecek."
         }
     ],
     "gelecek_maclar": []
