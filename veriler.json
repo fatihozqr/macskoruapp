@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "27-02-2026 10:23",
+    "son_guncelleme": "27-02-2026 11:50",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -36,14 +36,6 @@
             "saat": "19:30"
         },
         {
-            "lig": "Ligue 1",
-            "ev": "Strasbourg",
-            "dep": "RC Lens",
-            "skor": "None-None",
-            "durum": "gelecek",
-            "saat": "19:45"
-        },
-        {
             "lig": "Serie A",
             "ev": "Parma",
             "dep": "Cagliari",
@@ -52,12 +44,12 @@
             "saat": "19:45"
         },
         {
-            "lig": "Premier League",
-            "ev": "Wolverhampton",
-            "dep": "Aston Villa",
+            "lig": "Ligue 1",
+            "ev": "Strasbourg",
+            "dep": "RC Lens",
             "skor": "None-None",
             "durum": "gelecek",
-            "saat": "20:00"
+            "saat": "19:45"
         },
         {
             "lig": "Primera Division",
@@ -71,6 +63,14 @@
             "lig": "Championship",
             "ev": "Bristol City",
             "dep": "Watford",
+            "skor": "None-None",
+            "durum": "gelecek",
+            "saat": "20:00"
+        },
+        {
+            "lig": "Premier League",
+            "ev": "Wolverhampton",
+            "dep": "Aston Villa",
             "skor": "None-None",
             "durum": "gelecek",
             "saat": "20:00"
