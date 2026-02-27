@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "27-02-2026 08:48",
+    "son_guncelleme": "27-02-2026 10:23",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -52,6 +52,14 @@
             "saat": "19:45"
         },
         {
+            "lig": "Premier League",
+            "ev": "Wolverhampton",
+            "dep": "Aston Villa",
+            "skor": "None-None",
+            "durum": "gelecek",
+            "saat": "20:00"
+        },
+        {
             "lig": "Primera Division",
             "ev": "Levante",
             "dep": "Alavés",
@@ -63,14 +71,6 @@
             "lig": "Championship",
             "ev": "Bristol City",
             "dep": "Watford",
-            "skor": "None-None",
-            "durum": "gelecek",
-            "saat": "20:00"
-        },
-        {
-            "lig": "Premier League",
-            "ev": "Wolverhampton",
-            "dep": "Aston Villa",
             "skor": "None-None",
             "durum": "gelecek",
             "saat": "20:00"
