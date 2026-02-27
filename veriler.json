@@ -1,88 +1,16 @@
 {
-    "son_guncelleme": "27-02-2026 17:57",
+    "son_guncelleme": "27-02-2026 18:38",
     "canli_maclar": [
         {
-            "lig": "Copa Libertadores",
-            "ev": "Tolima",
-            "dep": "Táchira",
+            "lig": "Test Ligi",
+            "ev": "Yükleniyor Takımı",
+            "dep": "Analiz Takımı",
             "skor": "0-0",
-            "durum": "canli",
-            "saat": "00:30"
+            "dakika": 0,
+            "ai_tahmini": "Bülten Bekleniyor",
+            "ai_guven": "%0",
+            "ai_analiz": "Canlı bülten güncellendiğinde burada profesyonel analizler belirecek."
         }
     ],
-    "gelecek_maclar": [
-        {
-            "lig": "Primeira Liga",
-            "ev": "Porto",
-            "dep": "Arouca",
-            "skor": "None-None",
-            "durum": "gelecek",
-            "saat": "18:45"
-        },
-        {
-            "lig": "Eredivisie",
-            "ev": "Telstar",
-            "dep": "NAC",
-            "skor": "None-None",
-            "durum": "gelecek",
-            "saat": "19:00"
-        },
-        {
-            "lig": "Bundesliga",
-            "ev": "Augsburg",
-            "dep": "1. FC Köln",
-            "skor": "None-None",
-            "durum": "gelecek",
-            "saat": "19:30"
-        },
-        {
-            "lig": "Serie A",
-            "ev": "Parma",
-            "dep": "Cagliari",
-            "skor": "None-None",
-            "durum": "gelecek",
-            "saat": "19:45"
-        },
-        {
-            "lig": "Ligue 1",
-            "ev": "Strasbourg",
-            "dep": "RC Lens",
-            "skor": "None-None",
-            "durum": "gelecek",
-            "saat": "19:45"
-        },
-        {
-            "lig": "Primera Division",
-            "ev": "Levante",
-            "dep": "Alavés",
-            "skor": "None-None",
-            "durum": "gelecek",
-            "saat": "20:00"
-        },
-        {
-            "lig": "Championship",
-            "ev": "Bristol City",
-            "dep": "Watford",
-            "skor": "None-None",
-            "durum": "gelecek",
-            "saat": "20:00"
-        },
-        {
-            "lig": "Premier League",
-            "ev": "Wolverhampton",
-            "dep": "Aston Villa",
-            "skor": "None-None",
-            "durum": "gelecek",
-            "saat": "20:00"
-        },
-        {
-            "lig": "Primeira Liga",
-            "ev": "Sporting CP",
-            "dep": "Estoril Praia",
-            "skor": "None-None",
-            "durum": "gelecek",
-            "saat": "20:45"
-        }
-    ],
-    "puan_durumlari": {}
+    "gelecek_maclar": []
 }
