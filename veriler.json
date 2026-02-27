@@ -1,127 +1,98 @@
 {
-    "bot_adi": "Skor AI",
-    "guncelleme_zamani": "27.02.2026 07:53",
-    "mac_sayisi": 15,
-    "veriler": [
+    "son_guncelleme": "27-02-2026 08:31",
+    "canli_maclar": [
         {
-            "ev_sahibi": "Burnley FC",
-            "deplasman": "Manchester City FC",
-            "tarih": "2023-08-11",
-            "ai_tahmini": "MS 2",
-            "guven_skoru": "%68",
-            "analiz_notu": "Manchester City FC deplasmanda daha formda."
-        },
-        {
-            "ev_sahibi": "Arsenal FC",
-            "deplasman": "Nottingham Forest FC",
-            "tarih": "2023-08-12",
-            "ai_tahmini": "MS 2",
-            "guven_skoru": "%68",
-            "analiz_notu": "Nottingham Forest FC deplasmanda daha formda."
-        },
-        {
-            "ev_sahibi": "AFC Bournemouth",
-            "deplasman": "West Ham United FC",
-            "tarih": "2023-08-12",
-            "ai_tahmini": "MS 2",
-            "guven_skoru": "%68",
-            "analiz_notu": "West Ham United FC deplasmanda daha formda."
-        },
-        {
-            "ev_sahibi": "Brighton & Hove Albion FC",
-            "deplasman": "Luton Town FC",
-            "tarih": "2023-08-12",
-            "ai_tahmini": "MS 1",
-            "guven_skoru": "%72",
-            "analiz_notu": "Brighton & Hove Albion FC iç sahada baskılı oynuyor."
-        },
-        {
-            "ev_sahibi": "Everton FC",
-            "deplasman": "Fulham FC",
-            "tarih": "2023-08-12",
-            "ai_tahmini": "MS 1",
-            "guven_skoru": "%72",
-            "analiz_notu": "Everton FC iç sahada baskılı oynuyor."
-        },
-        {
-            "ev_sahibi": "Sheffield United FC",
-            "deplasman": "Crystal Palace FC",
-            "tarih": "2023-08-12",
-            "ai_tahmini": "MS 1",
-            "guven_skoru": "%72",
-            "analiz_notu": "Sheffield United FC iç sahada baskılı oynuyor."
-        },
-        {
-            "ev_sahibi": "Newcastle United FC",
-            "deplasman": "Aston Villa FC",
-            "tarih": "2023-08-12",
-            "ai_tahmini": "MS 1",
-            "guven_skoru": "%72",
-            "analiz_notu": "Newcastle United FC iç sahada baskılı oynuyor."
-        },
-        {
-            "ev_sahibi": "Brentford FC",
-            "deplasman": "Tottenham Hotspur FC",
-            "tarih": "2023-08-13",
-            "ai_tahmini": "MS 2",
-            "guven_skoru": "%68",
-            "analiz_notu": "Tottenham Hotspur FC deplasmanda daha formda."
-        },
-        {
-            "ev_sahibi": "Chelsea FC",
-            "deplasman": "Liverpool FC",
-            "tarih": "2023-08-13",
-            "ai_tahmini": "MS 2",
-            "guven_skoru": "%68",
-            "analiz_notu": "Liverpool FC deplasmanda daha formda."
-        },
-        {
-            "ev_sahibi": "Manchester United FC",
-            "deplasman": "Wolverhampton Wanderers FC",
-            "tarih": "2023-08-14",
-            "ai_tahmini": "MS 2",
-            "guven_skoru": "%68",
-            "analiz_notu": "Wolverhampton Wanderers FC deplasmanda daha formda."
-        },
-        {
-            "ev_sahibi": "Nottingham Forest FC",
-            "deplasman": "Sheffield United FC",
-            "tarih": "2023-08-18",
-            "ai_tahmini": "MS 1",
-            "guven_skoru": "%72",
-            "analiz_notu": "Nottingham Forest FC iç sahada baskılı oynuyor."
-        },
-        {
-            "ev_sahibi": "Fulham FC",
-            "deplasman": "Brentford FC",
-            "tarih": "2023-08-19",
-            "ai_tahmini": "MS 2",
-            "guven_skoru": "%68",
-            "analiz_notu": "Brentford FC deplasmanda daha formda."
-        },
-        {
-            "ev_sahibi": "Liverpool FC",
-            "deplasman": "AFC Bournemouth",
-            "tarih": "2023-08-19",
-            "ai_tahmini": "MS 2",
-            "guven_skoru": "%68",
-            "analiz_notu": "AFC Bournemouth deplasmanda daha formda."
-        },
-        {
-            "ev_sahibi": "Wolverhampton Wanderers FC",
-            "deplasman": "Brighton & Hove Albion FC",
-            "tarih": "2023-08-19",
-            "ai_tahmini": "MS 1",
-            "guven_skoru": "%72",
-            "analiz_notu": "Wolverhampton Wanderers FC iç sahada baskılı oynuyor."
-        },
-        {
-            "ev_sahibi": "Tottenham Hotspur FC",
-            "deplasman": "Manchester United FC",
-            "tarih": "2023-08-19",
-            "ai_tahmini": "KG VAR",
-            "guven_skoru": "%65",
-            "analiz_notu": "İki takımın gücü birbirine çok yakın."
+            "id": 553218,
+            "lig": "Copa Libertadores",
+            "ev": "Tolima",
+            "dep": "Táchira",
+            "skor": "0-0",
+            "durum": "canli",
+            "saat": "00:30"
         }
-    ]
+    ],
+    "gelecek_maclar": [
+        {
+            "id": 545909,
+            "lig": "Primeira Liga",
+            "ev": "Porto",
+            "dep": "Arouca",
+            "skor": "None-None",
+            "durum": "gelecek",
+            "saat": "18:45"
+        },
+        {
+            "id": 537664,
+            "lig": "Eredivisie",
+            "ev": "Telstar",
+            "dep": "NAC",
+            "skor": "None-None",
+            "durum": "gelecek",
+            "saat": "19:00"
+        },
+        {
+            "id": 540621,
+            "lig": "Bundesliga",
+            "ev": "Augsburg",
+            "dep": "1. FC Köln",
+            "skor": "None-None",
+            "durum": "gelecek",
+            "saat": "19:30"
+        },
+        {
+            "id": 542620,
+            "lig": "Ligue 1",
+            "ev": "Strasbourg",
+            "dep": "RC Lens",
+            "skor": "None-None",
+            "durum": "gelecek",
+            "saat": "19:45"
+        },
+        {
+            "id": 537080,
+            "lig": "Serie A",
+            "ev": "Parma",
+            "dep": "Cagliari",
+            "skor": "None-None",
+            "durum": "gelecek",
+            "saat": "19:45"
+        },
+        {
+            "id": 541121,
+            "lig": "Championship",
+            "ev": "Bristol City",
+            "dep": "Watford",
+            "skor": "None-None",
+            "durum": "gelecek",
+            "saat": "20:00"
+        },
+        {
+            "id": 544465,
+            "lig": "Primera Division",
+            "ev": "Levante",
+            "dep": "Alavés",
+            "skor": "None-None",
+            "durum": "gelecek",
+            "saat": "20:00"
+        },
+        {
+            "id": 538064,
+            "lig": "Premier League",
+            "ev": "Wolverhampton",
+            "dep": "Aston Villa",
+            "skor": "None-None",
+            "durum": "gelecek",
+            "saat": "20:00"
+        },
+        {
+            "id": 545907,
+            "lig": "Primeira Liga",
+            "ev": "Sporting CP",
+            "dep": "Estoril Praia",
+            "skor": "None-None",
+            "durum": "gelecek",
+            "saat": "20:45"
+        }
+    ],
+    "puan_durumu": {}
 }
