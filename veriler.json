@@ -1,8 +1,7 @@
 {
-    "son_guncelleme": "27-02-2026 08:31",
+    "son_guncelleme": "27-02-2026 08:37",
     "canli_maclar": [
         {
-            "id": 553218,
             "lig": "Copa Libertadores",
             "ev": "Tolima",
             "dep": "Táchira",
@@ -13,7 +12,6 @@
     ],
     "gelecek_maclar": [
         {
-            "id": 545909,
             "lig": "Primeira Liga",
             "ev": "Porto",
             "dep": "Arouca",
@@ -22,7 +20,6 @@
             "saat": "18:45"
         },
         {
-            "id": 537664,
             "lig": "Eredivisie",
             "ev": "Telstar",
             "dep": "NAC",
@@ -31,7 +28,6 @@
             "saat": "19:00"
         },
         {
-            "id": 540621,
             "lig": "Bundesliga",
             "ev": "Augsburg",
             "dep": "1. FC Köln",
@@ -40,7 +36,6 @@
             "saat": "19:30"
         },
         {
-            "id": 542620,
             "lig": "Ligue 1",
             "ev": "Strasbourg",
             "dep": "RC Lens",
@@ -49,7 +44,6 @@
             "saat": "19:45"
         },
         {
-            "id": 537080,
             "lig": "Serie A",
             "ev": "Parma",
             "dep": "Cagliari",
@@ -58,16 +52,6 @@
             "saat": "19:45"
         },
         {
-            "id": 541121,
-            "lig": "Championship",
-            "ev": "Bristol City",
-            "dep": "Watford",
-            "skor": "None-None",
-            "durum": "gelecek",
-            "saat": "20:00"
-        },
-        {
-            "id": 544465,
             "lig": "Primera Division",
             "ev": "Levante",
             "dep": "Alavés",
@@ -76,7 +60,14 @@
             "saat": "20:00"
         },
         {
-            "id": 538064,
+            "lig": "Championship",
+            "ev": "Bristol City",
+            "dep": "Watford",
+            "skor": "None-None",
+            "durum": "gelecek",
+            "saat": "20:00"
+        },
+        {
             "lig": "Premier League",
             "ev": "Wolverhampton",
             "dep": "Aston Villa",
@@ -85,7 +76,6 @@
             "saat": "20:00"
         },
         {
-            "id": 545907,
             "lig": "Primeira Liga",
             "ev": "Sporting CP",
             "dep": "Estoril Praia",
@@ -94,5 +84,5 @@
             "saat": "20:45"
         }
     ],
-    "puan_durumu": {}
+    "puan_durumlari": {}
 }
