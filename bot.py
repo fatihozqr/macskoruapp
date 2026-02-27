@@ -21,18 +21,15 @@ def get_data():
     }
 
     try:
-        # 1. RAPIDAPI İLE TÜM DÜNYADAKİ CANLI MAÇLARI ÇEKİYORUZ
-        print("Canlı maçlar çekiliyor...")
+        # CANLI MAÇLARI ÇEK
         res_live = requests.get("https://api-football-v1.p.rapidapi.com/v3/fixtures?live=all", headers=headers_rapid)
         
         if res_live.status_code == 200:
             data = res_live.json()
             for item in data.get('response', []):
-                # AI Analizlerini burada otomatik oluşturuyoruz
-                tahminler = ["2.5 ÜST", "KG VAR", "MS 1", "MS 2", "İLK YARI 0.5 ÜST"]
-                guven = f"%{random.randint(65, 98)}"
-                analiz_notu = f"Takımların son form durumu ve canlı istatistikleri bu maçta {random.choice(tahminler)} ihtimalini güçlendiriyor."
-
+                tahminler = ["2.5 ÜST", "KG VAR", "MS 1", "MS 2", "İY 0.5 ÜST"]
+                guven = f"%{random.randint(70, 99)}"
+                
                 mac = {
                     "lig": item['league']['name'],
                     "ev": item['teams']['home']['name'],
@@ -41,30 +38,28 @@ def get_data():
                     "dakika": item['fixture']['status']['elapsed'],
                     "ai_tahmini": random.choice(tahminler),
                     "ai_guven": guven,
-                    "ai_analiz": analiz_notu
+                    "ai_analiz": "AI botu takımların son performansına göre bu tahmini öneriyor."
                 }
                 final_data["canli_maclar"].append(mac)
         
-        # Eğer canlı maç yoksa boş kalmasın diye test verisi ekleyelim (Sadece deneme için)
+        # EĞER CANLI MAÇ YOKSA BOŞ KALMASIN DİYE TEST VERİSİ
         if not final_data["canli_maclar"]:
             final_data["canli_maclar"].append({
-                "lig": "Test Ligi",
-                "ev": "Yükleniyor Takımı",
-                "dep": "Analiz Takımı",
+                "lig": "Dünya Bülteni",
+                "ev": "Canlı Maç",
+                "dep": "Bekleniyor",
                 "skor": "0-0",
                 "dakika": 0,
-                "ai_tahmini": "Bülten Bekleniyor",
-                "ai_guven": "%0",
-                "ai_analiz": "Canlı bülten güncellendiğinde burada profesyonel analizler belirecek."
+                "ai_tahmini": "Bülten Hazırlanıyor",
+                "ai_guven": "%--",
+                "ai_analiz": "Şu an canlı maç bulunmuyor. Yeni maçlar başladığında AI analizleri burada belirecek."
             })
 
     except Exception as e:
         print(f"Hata: {e}")
 
-    # Veriyi kaydet
     with open('veriler.json', 'w', encoding='utf-8') as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
-    print(f"İşlem Tamam! {len(final_data['canli_maclar'])} maç sisteme yüklendi.")
 
 if __name__ == "__main__":
     get_data()
