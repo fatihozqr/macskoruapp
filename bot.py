@@ -3,10 +3,9 @@ import json
 import os
 from datetime import datetime
 
-# API ANAHTARLARI
-# Not: GitHub'a yüklerken bunları "Secrets" kısmına ekleyeceğiz, şimdilik test için buradalar.
-FD_API_KEY = "40c819a253bb47848c069fb45d497619"
-RAPID_API_KEY = "711626cbc2mshad5cc598f05f3f3p118239jsn0cd4ef7dd02a"
+# GÜVENLİ YÖNTEM: GitHub Secrets'tan anahtarları okur
+FD_API_KEY = os.getenv('FD_API_KEY')
+RAPID_API_KEY = os.getenv('RAPID_API_KEY')
 
 def get_data():
     final_data = {
@@ -17,7 +16,7 @@ def get_data():
     }
 
     try:
-        # 1. Football-Data: Günün Maçları ve Canlı Skorlar
+        # 1. Football-Data: Günün Maçları
         fd_url = "https://api.football-data.org/v4/matches"
         fd_headers = {'X-Auth-Token': FD_API_KEY}
         fd_res = requests.get(fd_url, headers=fd_headers)
@@ -32,15 +31,14 @@ def get_data():
                     "dep": m['awayTeam']['shortName'],
                     "skor": f"{m['score']['fullTime']['home']}-{m['score']['fullTime']['away']}",
                     "durum": "canli" if m['status'] == 'IN_PLAY' else "gelecek",
-                    "saat": m['utcDate'][11:16],
-                    "dakika": m.get('minute', '0')
+                    "saat": m['utcDate'][11:16]
                 }
                 if mac_obj['durum'] == "canli":
                     final_data["canli_maclar"].append(mac_obj)
                 else:
                     final_data["gelecek_maclar"].append(mac_obj)
 
-        # 2. RapidAPI: Süper Lig Puan Durumu (League ID: 203)
+        # 2. RapidAPI: Süper Lig Puan Durumu (ID: 203)
         rapid_url = "https://api-football-v1.p.rapidapi.com/v3/standings"
         rapid_params = {"league": "203", "season": "2025"}
         rapid_headers = {
@@ -57,12 +55,10 @@ def get_data():
             ]
 
     except Exception as e:
-        print(f"Hata oluştu: {e}")
+        print(f"Hata: {e}")
 
-    # Dosyaya Yaz (Büfeye ekmekleri bırakıyoruz)
     with open('veriler.json', 'w', encoding='utf-8') as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
-    print("Veriler başarıyla güncellendi!")
 
 if __name__ == "__main__":
     get_data()
