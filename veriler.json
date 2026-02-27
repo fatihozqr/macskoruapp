@@ -1,15 +1,15 @@
 {
-    "son_guncelleme": "27-02-2026 18:45",
+    "son_guncelleme": "27-02-2026 18:49",
     "canli_maclar": [
         {
-            "lig": "Dünya Bülteni",
-            "ev": "Canlı Maç",
-            "dep": "Bekleniyor",
+            "lig": "Sistem",
+            "ev": "Veriler",
+            "dep": "Güncelleniyor",
             "skor": "0-0",
             "dakika": 0,
-            "ai_tahmini": "Bülten Hazırlanıyor",
+            "ai_tahmini": "Bülten Yükleniyor",
             "ai_guven": "%--",
-            "ai_analiz": "Şu an canlı maç bulunmuyor. Yeni maçlar başladığında AI analizleri burada belirecek."
+            "ai_analiz": "Canlı maçlar birazdan listelenecek. Lütfen yenileyin."
         }
     ],
     "gelecek_maclar": []
