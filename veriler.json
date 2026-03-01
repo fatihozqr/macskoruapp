@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "01-03-2026 19:57",
+    "son_guncelleme": "01-03-2026 20:54",
     "canli_maclar": [
         {
             "lig": "Eredivisie",
@@ -27,7 +27,7 @@
             "dep": "RCD Espanyol de Barcelona",
             "skor": "2-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +37,7 @@
             "dep": "Feyenoord Rotterdam",
             "skor": "2-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -52,22 +52,12 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Premier League",
-            "ev": "Manchester United FC",
-            "dep": "Crystal Palace FC",
-            "skor": "2-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
             "lig": "Ligue 1",
             "ev": "Paris FC",
             "dep": "OGC Nice",
             "skor": "1-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -77,7 +67,17 @@
             "dep": "Atalanta BC",
             "skor": "2-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Premier League",
+            "ev": "Manchester United FC",
+            "dep": "Crystal Palace FC",
+            "skor": "2-1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -87,7 +87,7 @@
             "dep": "Nottingham Forest FC",
             "skor": "2-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -97,7 +97,7 @@
             "dep": "Tottenham Hotspur FC",
             "skor": "2-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -117,7 +117,7 @@
             "dep": "CA Osasuna",
             "skor": "1-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -127,7 +127,7 @@
             "dep": "CD Santa Clara",
             "skor": "2-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -137,7 +137,17 @@
             "dep": "AZ",
             "skor": "2-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Ligue 1",
+            "ev": "FC Lorient",
+            "dep": "AJ Auxerre",
+            "skor": "2-2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -153,19 +163,19 @@
         },
         {
             "lig": "Ligue 1",
-            "ev": "FC Lorient",
-            "dep": "AJ Auxerre",
-            "skor": "2-2",
+            "ev": "FC Metz",
+            "dep": "Stade Brestois 29",
+            "skor": "0-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Ligue 1",
-            "ev": "FC Metz",
-            "dep": "Stade Brestois 29",
-            "skor": "0-1",
+            "lig": "Premier League",
+            "ev": "Arsenal FC",
+            "dep": "Chelsea FC",
+            "skor": "2-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -178,16 +188,6 @@
             "skor": "2-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Premier League",
-            "ev": "Arsenal FC",
-            "dep": "Chelsea FC",
-            "skor": "2-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -207,7 +207,7 @@
             "dep": "Sevilla FC",
             "skor": "2-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -216,8 +216,8 @@
             "ev": "Casa Pia AC",
             "dep": "Moreirense FC",
             "skor": "1-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -226,8 +226,8 @@
             "ev": "Hamburger SV",
             "dep": "RB Leipzig",
             "skor": "1-2",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -235,8 +235,8 @@
             "lig": "Eredivisie",
             "ev": "SBV Excelsior",
             "dep": "Go Ahead Eagles",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
+            "skor": "0-1",
+            "dakika": "CANLI",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -245,9 +245,9 @@
             "lig": "Serie A",
             "ev": "AS Roma",
             "dep": "Juventus FC",
-            "skor": "0-0",
+            "skor": "1-0",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -256,7 +256,7 @@
             "ev": "Olympique de Marseille",
             "dep": "Olympique Lyonnais",
             "skor": "0-1",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -265,9 +265,9 @@
             "lig": "Primera Division",
             "ev": "Girona FC",
             "dep": "RC Celta de Vigo",
-            "skor": "0-0",
+            "skor": "1-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -276,8 +276,8 @@
             "ev": "Rio Ave FC",
             "dep": "FC Famalicão",
             "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
