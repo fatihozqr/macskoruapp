@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "02-03-2026 07:54",
+    "son_guncelleme": "02-03-2026 10:31",
     "canli_maclar": [
         {
             "lig": "Serie A",
@@ -7,7 +7,7 @@
             "dep": "Bologna FC 1909",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -22,9 +22,9 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Primera Division",
-            "ev": "Real Madrid CF",
-            "dep": "Getafe CF",
+            "lig": "Championship",
+            "ev": "Birmingham City FC",
+            "dep": "Middlesbrough FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -32,12 +32,12 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Championship",
-            "ev": "Birmingham City FC",
-            "dep": "Middlesbrough FC",
+            "lig": "Primera Division",
+            "ev": "Real Madrid CF",
+            "dep": "Getafe CF",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +47,7 @@
             "dep": "Sport Lisboa e Benfica",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
