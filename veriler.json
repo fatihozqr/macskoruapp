@@ -1,10 +1,20 @@
 {
-    "son_guncelleme": "03-03-2026 23:55",
+    "son_guncelleme": "04-03-2026 05:00",
     "canli_maclar": [
         {
-            "lig": "Premier League",
-            "ev": "AFC Bournemouth",
-            "dep": "Brentford FC",
+            "lig": "Copa Libertadores",
+            "ev": "Barcelona SC",
+            "dep": "Botafogo FR",
+            "skor": "1-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "Rayo Vallecano de Madrid",
+            "dep": "Real Oviedo",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -13,41 +23,71 @@
         },
         {
             "lig": "Premier League",
-            "ev": "Leeds United FC",
-            "dep": "Sunderland AFC",
-            "skor": "0-1",
+            "ev": "Brighton & Hove Albion FC",
+            "dep": "Arsenal FC",
+            "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Bundesliga",
+            "ev": "Hamburger SV",
+            "dep": "Bayer 04 Leverkusen",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Premier League",
-            "ev": "Everton FC",
-            "dep": "Burnley FC",
-            "skor": "2-0",
+            "ev": "Manchester City FC",
+            "dep": "Nottingham Forest FC",
+            "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "Ipswich Town FC",
-            "dep": "Hull City AFC",
-            "skor": "1-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Premier League",
-            "ev": "Wolverhampton Wanderers FC",
-            "dep": "Liverpool FC",
-            "skor": "2-1",
+            "ev": "Fulham FC",
+            "dep": "West Ham United FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Premier League",
+            "ev": "Aston Villa FC",
+            "dep": "Chelsea FC",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Premier League",
+            "ev": "Newcastle United FC",
+            "dep": "Manchester United FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Carabobo FC",
+            "dep": "CS Cristal",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
