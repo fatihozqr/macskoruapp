@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "05-03-2026 20:57",
+    "son_guncelleme": "05-03-2026 22:01",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -15,9 +15,9 @@
             "lig": "Premier League",
             "ev": "Tottenham Hotspur FC",
             "dep": "Crystal Palace FC",
-            "skor": "1-2",
+            "skor": "1-3",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
