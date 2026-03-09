@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "09-03-2026 21:59",
+    "son_guncelleme": "09-03-2026 23:01",
     "canli_maclar": [
         {
             "lig": "Serie A",
@@ -26,8 +26,8 @@
             "ev": "CD Tondela",
             "dep": "Rio Ave FC",
             "skor": "0-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
