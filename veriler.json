@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "10-03-2026 19:51",
+    "son_guncelleme": "10-03-2026 21:02",
     "canli_maclar": [
         {
             "lig": "UEFA Champions League",
@@ -13,21 +13,11 @@
         },
         {
             "lig": "Championship",
-            "ev": "Sheffield Wednesday FC",
-            "dep": "Watford FC",
-            "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
             "ev": "Wrexham AFC",
             "dep": "Hull City AFC",
-            "skor": "0-0",
+            "skor": "0-1",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -35,7 +25,7 @@
             "lig": "Championship",
             "ev": "Millwall FC",
             "dep": "Derby County FC",
-            "skor": "0-0",
+            "skor": "1-0",
             "dakika": "CANLI",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -43,8 +33,8 @@
         },
         {
             "lig": "Championship",
-            "ev": "Portsmouth FC",
-            "dep": "Swansea City AFC",
+            "ev": "Sheffield Wednesday FC",
+            "dep": "Watford FC",
             "skor": "0-0",
             "dakika": "CANLI",
             "ai_tahmini": "MS 1",
@@ -55,7 +45,17 @@
             "lig": "Championship",
             "ev": "Leicester City FC",
             "dep": "Bristol City FC",
-            "skor": "0-0",
+            "skor": "2-0",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Portsmouth FC",
+            "dep": "Swansea City AFC",
+            "skor": "0-2",
             "dakika": "CANLI",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -65,9 +65,9 @@
             "lig": "UEFA Champions League",
             "ev": "Atalanta BC",
             "dep": "FC Bayern München",
-            "skor": "0-0",
+            "skor": "0-3",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -75,9 +75,9 @@
             "lig": "UEFA Champions League",
             "ev": "Club Atlético de Madrid",
             "dep": "Tottenham Hotspur FC",
-            "skor": "0-0",
+            "skor": "4-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -87,7 +87,7 @@
             "dep": "FC Barcelona",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -95,9 +95,9 @@
             "lig": "Championship",
             "ev": "Stoke City FC",
             "dep": "Ipswich Town FC",
-            "skor": "0-0",
+            "skor": "2-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
