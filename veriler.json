@@ -1,6 +1,16 @@
 {
-    "son_guncelleme": "12-03-2026 05:07",
+    "son_guncelleme": "12-03-2026 07:52",
     "canli_maclar": [
+        {
+            "lig": "Copa Libertadores",
+            "ev": "CD Tolima",
+            "dep": "O'Higgins FC",
+            "skor": "1-0",
+            "dakika": "CANLI",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
         {
             "lig": "Campeonato Brasileiro Série A",
             "ev": "SC Corinthians Paulista",
@@ -18,16 +28,6 @@
             "skor": "2-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "CD Tolima",
-            "dep": "O'Higgins FC",
-            "skor": "1-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -57,7 +57,7 @@
             "dep": "Chapecoense AF",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
