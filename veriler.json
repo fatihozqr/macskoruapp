@@ -1,16 +1,6 @@
 {
-    "son_guncelleme": "12-03-2026 21:48",
+    "son_guncelleme": "12-03-2026 22:57",
     "canli_maclar": [
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "CR Flamengo",
-            "dep": "Cruzeiro EC",
-            "skor": "2-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "Copa Libertadores",
             "ev": "CD Tolima",
@@ -27,7 +17,17 @@
             "dep": "Coritiba FBC",
             "skor": "0-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "CR Flamengo",
+            "dep": "Cruzeiro EC",
+            "skor": "2-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -35,9 +35,9 @@
             "lig": "Campeonato Brasileiro Série A",
             "ev": "Clube do Remo",
             "dep": "Fluminense FC",
-            "skor": "0-0",
+            "skor": "0-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -46,8 +46,8 @@
             "ev": "CR Vasco da Gama",
             "dep": "SE Palmeiras",
             "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
