@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "12-03-2026 11:45",
+    "son_guncelleme": "12-03-2026 14:36",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -13,9 +13,9 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "CR Flamengo",
-            "dep": "Cruzeiro EC",
-            "skor": "2-0",
+            "ev": "SC Corinthians Paulista",
+            "dep": "Coritiba FBC",
+            "skor": "0-2",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -23,11 +23,11 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "SC Corinthians Paulista",
-            "dep": "Coritiba FBC",
-            "skor": "0-2",
+            "ev": "CR Flamengo",
+            "dep": "Cruzeiro EC",
+            "skor": "2-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +47,7 @@
             "dep": "SE Palmeiras",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -57,7 +57,7 @@
             "dep": "Chapecoense AF",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
