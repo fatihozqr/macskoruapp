@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "13-03-2026 16:06",
+    "son_guncelleme": "13-03-2026 17:54",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -27,7 +27,7 @@
             "dep": "FC Groningen",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -35,6 +35,16 @@
             "lig": "Bundesliga",
             "ev": "Borussia Mönchengladbach",
             "dep": "FC St. Pauli 1910",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Serie A",
+            "ev": "Torino FC",
+            "dep": "Parma Calcio 1913",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -52,12 +62,12 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Serie A",
-            "ev": "Torino FC",
-            "dep": "Parma Calcio 1913",
+            "lig": "Championship",
+            "ev": "Wrexham AFC",
+            "dep": "Swansea City AFC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -67,17 +77,7 @@
             "dep": "Villarreal CF",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "Wrexham AFC",
-            "dep": "Swansea City AFC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
