@@ -1,5 +1,56 @@
 {
-    "son_guncelleme": "16-03-2026 19:36",
-    "canli_maclar": [],
-    "debug": "Iki API de cevap vermedi veya mac yok."
+    "son_guncelleme": "16-03-2026 21:55",
+    "canli_maclar": [
+        {
+            "lig": "Serie A",
+            "ev": "US Cremonese",
+            "dep": "ACF Fiorentina",
+            "skor": "1-4",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "Rayo Vallecano de Madrid",
+            "dep": "Levante UD",
+            "skor": "0-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Premier League",
+            "ev": "Brentford FC",
+            "dep": "Wolverhampton Wanderers FC",
+            "skor": "2-2",
+            "dakika": "CANLI",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Portsmouth FC",
+            "dep": "Derby County FC",
+            "skor": "0-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "Chapecoense AF",
+            "dep": "Grêmio FBPA",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        }
+    ],
+    "debug": "Football-Data Basarili"
 }
