@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "16-03-2026 23:01",
+    "son_guncelleme": "16-03-2026 23:57",
     "canli_maclar": [
         {
             "lig": "Serie A",
@@ -7,17 +7,17 @@
             "dep": "ACF Fiorentina",
             "skor": "1-4",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Championship",
-            "ev": "Portsmouth FC",
-            "dep": "Derby County FC",
-            "skor": "0-1",
+            "lig": "Primera Division",
+            "ev": "Rayo Vallecano de Madrid",
+            "dep": "Levante UD",
+            "skor": "1-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -32,10 +32,10 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Primera Division",
-            "ev": "Rayo Vallecano de Madrid",
-            "dep": "Levante UD",
-            "skor": "1-1",
+            "lig": "Championship",
+            "ev": "Portsmouth FC",
+            "dep": "Derby County FC",
+            "skor": "0-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -45,9 +45,9 @@
             "lig": "Campeonato Brasileiro Série A",
             "ev": "Chapecoense AF",
             "dep": "Grêmio FBPA",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "skor": "1-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
