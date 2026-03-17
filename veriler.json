@@ -1,12 +1,12 @@
 {
-    "son_guncelleme": "17-03-2026 20:03",
+    "son_guncelleme": "17-03-2026 22:00",
     "canli_maclar": [
         {
             "lig": "UEFA Champions League",
             "ev": "Sporting Clube de Portugal",
             "dep": "FK Bodø/Glimt",
-            "skor": "4-0",
-            "dakika": "CANLI",
+            "skor": "5-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -15,19 +15,9 @@
             "lig": "Championship",
             "ev": "Watford FC",
             "dep": "Wrexham AFC",
-            "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "UEFA Champions League",
-            "ev": "Arsenal FC",
-            "dep": "Bayer 04 Leverkusen",
-            "skor": "0-0",
+            "skor": "3-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -35,9 +25,19 @@
             "lig": "UEFA Champions League",
             "ev": "Manchester City FC",
             "dep": "Real Madrid CF",
-            "skor": "0-0",
+            "skor": "1-2",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "UEFA Champions League",
+            "ev": "Arsenal FC",
+            "dep": "Bayer 04 Leverkusen",
+            "skor": "2-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -45,7 +45,7 @@
             "lig": "UEFA Champions League",
             "ev": "Chelsea FC",
             "dep": "Paris Saint-Germain FC",
-            "skor": "0-0",
+            "skor": "0-3",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
