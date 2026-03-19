@@ -1,50 +1,20 @@
 {
-    "son_guncelleme": "18-03-2026 23:57",
+    "son_guncelleme": "19-03-2026 05:17",
     "canli_maclar": [
         {
-            "lig": "UEFA Champions League",
-            "ev": "FC Barcelona",
-            "dep": "Newcastle United FC",
-            "skor": "7-2",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "Southampton FC",
-            "dep": "Norwich City FC",
-            "skor": "1-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "UEFA Champions League",
-            "ev": "Liverpool FC",
-            "dep": "Galatasaray SK",
-            "skor": "3-0",
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "Santos FC",
+            "dep": "SC Internacional",
+            "skor": "1-2",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "UEFA Champions League",
-            "ev": "FC Bayern München",
-            "dep": "Atalanta BC",
-            "skor": "4-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "UEFA Champions League",
-            "ev": "Tottenham Hotspur FC",
-            "dep": "Club Atlético de Madrid",
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "CR Vasco da Gama",
+            "dep": "Fluminense FC",
             "skor": "3-2",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -53,38 +23,8 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "EC Bahia",
-            "dep": "RB Bragantino",
-            "skor": "2-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "SE Palmeiras",
-            "dep": "Botafogo FR",
-            "skor": "2-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "CA Paranaense",
-            "dep": "Cruzeiro EC",
-            "skor": "2-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "CA Mineiro",
-            "dep": "São Paulo FC",
+            "ev": "Grêmio FBPA",
+            "dep": "EC Vitória",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -93,8 +33,8 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "Mirassol FC",
-            "dep": "Coritiba FBC",
+            "ev": "CR Flamengo",
+            "dep": "Clube do Remo",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
