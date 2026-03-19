@@ -1,16 +1,6 @@
 {
-    "son_guncelleme": "19-03-2026 10:08",
+    "son_guncelleme": "19-03-2026 11:53",
     "canli_maclar": [
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "Santos FC",
-            "dep": "SC Internacional",
-            "skor": "1-2",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "Campeonato Brasileiro Série A",
             "ev": "CR Vasco da Gama",
@@ -23,11 +13,21 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
+            "ev": "Santos FC",
+            "dep": "SC Internacional",
+            "skor": "1-2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
             "ev": "Grêmio FBPA",
             "dep": "EC Vitória",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +37,7 @@
             "dep": "Clube do Remo",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
