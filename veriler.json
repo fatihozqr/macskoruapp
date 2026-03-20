@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "20-03-2026 21:57",
+    "son_guncelleme": "20-03-2026 23:00",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
@@ -17,7 +17,7 @@
             "dep": "SSC Napoli",
             "skor": "0-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +37,7 @@
             "dep": "TSG 1899 Hoffenheim",
             "skor": "5-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -57,16 +57,6 @@
             "dep": "Angers SCO",
             "skor": "5-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Primera Division",
-            "ev": "Villarreal CF",
-            "dep": "Real Sociedad de Fútbol",
-            "skor": "3-1",
-            "dakika": "CANLI",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -76,7 +66,7 @@
             "ev": "Preston North End FC",
             "dep": "Stoke City FC",
             "skor": "3-1",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -86,7 +76,17 @@
             "ev": "AFC Bournemouth",
             "dep": "Manchester United FC",
             "skor": "2-2",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "Villarreal CF",
+            "dep": "Real Sociedad de Fútbol",
+            "skor": "3-1",
+            "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -95,8 +95,8 @@
             "lig": "Primeira Liga",
             "ev": "CF Estrela da Amadora",
             "dep": "Casa Pia AC",
-            "skor": "3-0",
-            "dakika": "CANLI",
+            "skor": "4-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
