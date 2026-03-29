@@ -1,13 +1,13 @@
 {
-    "son_guncelleme": "29-03-2026 22:24",
+    "son_guncelleme": "29-03-2026 22:59",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
             "ev": "CA Paranaense",
             "dep": "Botafogo FR",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "skor": "1-0",
+            "dakika": "CANLI",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
