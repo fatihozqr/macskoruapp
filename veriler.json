@@ -1,16 +1,5 @@
 {
-    "son_guncelleme": "29-03-2026 23:45",
-    "canli_maclar": [
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "CA Paranaense",
-            "dep": "Botafogo FR",
-            "skor": "2-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        }
-    ],
+    "son_guncelleme": "30-03-2026 01:06",
+    "canli_maclar": [],
     "debug": "Football-Data Basarili"
 }
