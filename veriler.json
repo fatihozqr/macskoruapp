@@ -1,10 +1,10 @@
 {
-    "son_guncelleme": "01-04-2026 05:26",
+    "son_guncelleme": "01-04-2026 07:01",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "Botafogo FR",
-            "dep": "Mirassol FC",
+            "ev": "SC Internacional",
+            "dep": "São Paulo FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -13,18 +13,8 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "SC Internacional",
-            "dep": "São Paulo FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "Cruzeiro EC",
-            "dep": "EC Vitória",
+            "ev": "Botafogo FR",
+            "dep": "Mirassol FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -38,6 +28,16 @@
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "Cruzeiro EC",
+            "dep": "EC Vitória",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
