@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "02-04-2026 16:03",
+    "son_guncelleme": "02-04-2026 17:08",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
@@ -17,7 +17,7 @@
             "dep": "CA Mineiro",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -27,7 +27,7 @@
             "dep": "Clube do Remo",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
