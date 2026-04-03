@@ -1,11 +1,11 @@
 {
-    "son_guncelleme": "03-04-2026 10:29",
+    "son_guncelleme": "03-04-2026 11:23",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "SE Palmeiras",
-            "dep": "Grêmio FBPA",
-            "skor": "2-1",
+            "ev": "RB Bragantino",
+            "dep": "CR Flamengo",
+            "skor": "4-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -13,9 +13,9 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "RB Bragantino",
-            "dep": "CR Flamengo",
-            "skor": "4-0",
+            "ev": "SE Palmeiras",
+            "dep": "Grêmio FBPA",
+            "skor": "2-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -33,8 +33,38 @@
         },
         {
             "lig": "Championship",
-            "ev": "Charlton Athletic FC",
-            "dep": "Bristol City FC",
+            "ev": "Birmingham City FC",
+            "dep": "Blackburn Rovers FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Sheffield United FC",
+            "dep": "Swansea City AFC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "West Bromwich Albion FC",
+            "dep": "Wrexham AFC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Oxford United FC",
+            "dep": "Hull City AFC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -47,14 +77,14 @@
             "dep": "Preston North End FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Championship",
-            "ev": "Norwich City FC",
-            "dep": "Portsmouth FC",
+            "ev": "Charlton Athletic FC",
+            "dep": "Bristol City FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -67,7 +97,7 @@
             "dep": "Watford FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -83,41 +113,11 @@
         },
         {
             "lig": "Championship",
-            "ev": "Birmingham City FC",
-            "dep": "Blackburn Rovers FC",
+            "ev": "Norwich City FC",
+            "dep": "Portsmouth FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "West Bromwich Albion FC",
-            "dep": "Wrexham AFC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "Oxford United FC",
-            "dep": "Hull City AFC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "Sheffield United FC",
-            "dep": "Swansea City AFC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -127,7 +127,7 @@
             "dep": "AVS",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -157,7 +157,7 @@
             "dep": "Derby County FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -167,7 +167,7 @@
             "dep": "Elche CF",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -177,7 +177,7 @@
             "dep": "CD Santa Clara",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
