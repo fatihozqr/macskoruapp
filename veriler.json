@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "03-04-2026 16:02",
+    "son_guncelleme": "03-04-2026 16:55",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
@@ -17,7 +17,7 @@
             "dep": "Grêmio FBPA",
             "skor": "2-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -27,7 +27,37 @@
             "dep": "Millwall FC",
             "skor": "1-2",
             "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Stoke City FC",
+            "dep": "Sheffield Wednesday FC",
+            "skor": "2-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Norwich City FC",
+            "dep": "Portsmouth FC",
+            "skor": "1-1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Queens Park Rangers FC",
+            "dep": "Watford FC",
+            "skor": "2-1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -46,8 +76,8 @@
             "ev": "Sheffield United FC",
             "dep": "Swansea City AFC",
             "skor": "3-3",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -56,8 +86,8 @@
             "ev": "West Bromwich Albion FC",
             "dep": "Wrexham AFC",
             "skor": "2-2",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -76,8 +106,8 @@
             "ev": "Charlton Athletic FC",
             "dep": "Bristol City FC",
             "skor": "1-2",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -86,38 +116,8 @@
             "ev": "Leicester City FC",
             "dep": "Preston North End FC",
             "skor": "2-2",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "Stoke City FC",
-            "dep": "Sheffield Wednesday FC",
-            "skor": "2-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "Norwich City FC",
-            "dep": "Portsmouth FC",
-            "skor": "1-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "Queens Park Rangers FC",
-            "dep": "Watford FC",
-            "skor": "2-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -125,9 +125,9 @@
             "lig": "Primeira Liga",
             "ev": "Gil Vicente FC",
             "dep": "AVS",
-            "skor": "2-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "skor": "3-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -137,7 +137,7 @@
             "dep": "CD Tondela",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -147,7 +147,7 @@
             "dep": "Toulouse FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -167,7 +167,7 @@
             "dep": "Elche CF",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -177,7 +177,7 @@
             "dep": "CD Santa Clara",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
