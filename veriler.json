@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "04-04-2026 22:47",
+    "son_guncelleme": "04-04-2026 23:18",
     "canli_maclar": [
         {
             "lig": "Primera Division",
@@ -7,7 +7,7 @@
             "dep": "Levante UD",
             "skor": "2-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -27,7 +27,7 @@
             "dep": "1. FC Heidenheim 1846",
             "skor": "2-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -57,7 +57,7 @@
             "dep": "FC Bayern München",
             "skor": "2-3",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -87,7 +87,7 @@
             "dep": "Real Madrid CF",
             "skor": "2-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -117,7 +117,7 @@
             "dep": "OGC Nice",
             "skor": "3-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -147,7 +147,7 @@
             "dep": "Borussia Dortmund",
             "skor": "0-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -158,6 +158,26 @@
             "skor": "0-2",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Ligue 1",
+            "ev": "Stade Brestois 29",
+            "dep": "Stade Rennais FC 1901",
+            "skor": "3-4",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primeira Liga",
+            "ev": "Rio Ave FC",
+            "dep": "FC Alverca",
+            "skor": "1-2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -182,52 +202,12 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Ligue 1",
-            "ev": "Stade Brestois 29",
-            "dep": "Stade Rennais FC 1901",
-            "skor": "3-4",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Primeira Liga",
-            "ev": "Rio Ave FC",
-            "dep": "FC Alverca",
-            "skor": "1-2",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
             "lig": "Serie A",
             "ev": "SS Lazio",
             "dep": "Parma Calcio 1913",
             "skor": "1-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Eredivisie",
-            "ev": "AFC Ajax",
-            "dep": "FC Twente '65",
-            "skor": "1-2",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Eredivisie",
-            "ev": "SBV Excelsior",
-            "dep": "NEC",
-            "skor": "0-2",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -242,12 +222,32 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
+            "lig": "Eredivisie",
+            "ev": "AFC Ajax",
+            "dep": "FC Twente '65",
+            "skor": "1-2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Eredivisie",
+            "ev": "SBV Excelsior",
+            "dep": "NEC",
+            "skor": "0-2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
             "lig": "Ligue 1",
             "ev": "Lille OSC",
             "dep": "Racing Club de Lens",
             "skor": "3-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -257,7 +257,7 @@
             "dep": "FC Famalicão",
             "skor": "2-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -265,9 +265,9 @@
             "lig": "Campeonato Brasileiro Série A",
             "ev": "São Paulo FC",
             "dep": "Cruzeiro EC",
-            "skor": "2-0",
+            "skor": "3-1",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -287,7 +287,7 @@
             "dep": "Botafogo FR",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
