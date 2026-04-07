@@ -1,13 +1,23 @@
 {
-    "son_guncelleme": "07-04-2026 22:58",
+    "son_guncelleme": "07-04-2026 23:50",
     "canli_maclar": [
+        {
+            "lig": "UEFA Champions League",
+            "ev": "Real Madrid CF",
+            "dep": "FC Bayern München",
+            "skor": "1-2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
         {
             "lig": "UEFA Champions League",
             "ev": "Sporting Clube de Portugal",
             "dep": "Arsenal FC",
             "skor": "0-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -17,15 +27,15 @@
             "dep": "Southampton FC",
             "skor": "1-5",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "UEFA Champions League",
-            "ev": "Real Madrid CF",
-            "dep": "FC Bayern München",
-            "skor": "1-2",
+            "lig": "Copa Libertadores",
+            "ev": "Deportivo La Guaira FC",
+            "dep": "Fluminense FC",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -37,14 +47,14 @@
             "dep": "Club Bolívar",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Deportivo La Guaira FC",
-            "dep": "Fluminense FC",
+            "ev": "Club Always Ready",
+            "dep": "LDU de Quito",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -57,17 +67,7 @@
             "dep": "Cruzeiro EC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "Club Always Ready",
-            "dep": "LDU de Quito",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
