@@ -1,10 +1,10 @@
 {
-    "son_guncelleme": "07-04-2026 11:16",
+    "son_guncelleme": "07-04-2026 12:06",
     "canli_maclar": [
         {
-            "lig": "Championship",
-            "ev": "Wrexham AFC",
-            "dep": "Southampton FC",
+            "lig": "UEFA Champions League",
+            "ev": "Sporting Clube de Portugal",
+            "dep": "Arsenal FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -12,9 +12,9 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "UEFA Champions League",
-            "ev": "Sporting Clube de Portugal",
-            "dep": "Arsenal FC",
+            "lig": "Championship",
+            "ev": "Wrexham AFC",
+            "dep": "Southampton FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -27,17 +27,7 @@
             "dep": "FC Bayern München",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "Deportivo La Guaira FC",
-            "dep": "Fluminense FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -53,8 +43,18 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Club Always Ready",
-            "dep": "LDU de Quito",
+            "ev": "Deportivo La Guaira FC",
+            "dep": "Fluminense FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Barcelona SC",
+            "dep": "Cruzeiro EC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -63,8 +63,8 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Barcelona SC",
-            "dep": "Cruzeiro EC",
+            "ev": "Club Always Ready",
+            "dep": "LDU de Quito",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
