@@ -1,10 +1,10 @@
 {
-    "son_guncelleme": "08-04-2026 07:54",
+    "son_guncelleme": "08-04-2026 09:08",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
-            "ev": "Club Always Ready",
-            "dep": "LDU de Quito",
+            "ev": "Barcelona SC",
+            "dep": "Cruzeiro EC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -13,11 +13,11 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Barcelona SC",
-            "dep": "Cruzeiro EC",
+            "ev": "Club Always Ready",
+            "dep": "LDU de Quito",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -43,31 +43,21 @@
         },
         {
             "lig": "UEFA Champions League",
-            "ev": "FC Barcelona",
-            "dep": "Club Atlético de Madrid",
+            "ev": "Paris Saint-Germain FC",
+            "dep": "Liverpool FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "UEFA Champions League",
-            "ev": "Paris Saint-Germain FC",
-            "dep": "Liverpool FC",
+            "ev": "FC Barcelona",
+            "dep": "Club Atlético de Madrid",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "CD Coquimbo Unido",
-            "dep": "Club Nacional de Football",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -83,11 +73,21 @@
         },
         {
             "lig": "Copa Libertadores",
+            "ev": "CD Coquimbo Unido",
+            "dep": "Club Nacional de Football",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
             "ev": "CD Independiente Medellín",
             "dep": "Estudiantes de La Plata",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
