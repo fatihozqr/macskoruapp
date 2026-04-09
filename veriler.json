@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "09-04-2026 23:02",
+    "son_guncelleme": "09-04-2026 23:51",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -7,16 +7,6 @@
             "dep": "Estudiantes de La Plata",
             "skor": "0-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "CDP Junior FC",
-            "dep": "SE Palmeiras",
-            "skor": "1-0",
-            "dakika": "CANLI",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -27,6 +17,16 @@
             "dep": "CR Flamengo",
             "skor": "0-0",
             "dakika": "CANLI",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "CDP Junior FC",
+            "dep": "SE Palmeiras",
+            "skor": "1-0",
+            "dakika": "CANLI",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -35,6 +35,16 @@
             "lig": "Copa Libertadores",
             "ev": "CS Cristal",
             "dep": "Club Cerro Porteño",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Universidad Central de Venezuela FC",
+            "dep": "Club Libertad Asuncion",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -53,21 +63,11 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Universidad Central de Venezuela FC",
-            "dep": "Club Libertad Asuncion",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
             "ev": "CA Platense",
             "dep": "SC Corinthians Paulista",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
