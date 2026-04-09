@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "09-04-2026 19:42",
+    "son_guncelleme": "09-04-2026 20:35",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -7,6 +7,16 @@
             "dep": "Estudiantes de La Plata",
             "skor": "0-1",
             "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "CDP Junior FC",
+            "dep": "SE Palmeiras",
+            "skor": "1-0",
+            "dakika": "CANLI",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -16,16 +26,6 @@
             "ev": "Cusco FC",
             "dep": "CR Flamengo",
             "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "CDP Junior FC",
-            "dep": "SE Palmeiras",
-            "skor": "1-0",
             "dakika": "CANLI",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -43,8 +43,8 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Universidad Central de Venezuela FC",
-            "dep": "Club Libertad Asuncion",
+            "ev": "CA Rosario Central",
+            "dep": "CAR Independiente del Valle",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -53,8 +53,8 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "CA Rosario Central",
-            "dep": "CAR Independiente del Valle",
+            "ev": "Universidad Central de Venezuela FC",
+            "dep": "Club Libertad Asuncion",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
