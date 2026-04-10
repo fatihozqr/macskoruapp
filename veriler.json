@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "10-04-2026 20:04",
+    "son_guncelleme": "10-04-2026 20:54",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -17,7 +17,7 @@
             "dep": "CA Peñarol",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +37,7 @@
             "dep": "FC Volendam",
             "skor": "2-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -46,7 +46,7 @@
             "ev": "FC Augsburg",
             "dep": "TSG 1899 Hoffenheim",
             "skor": "2-2",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -56,6 +56,16 @@
             "ev": "AS Roma",
             "dep": "AC Pisa 1909",
             "skor": "3-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "West Bromwich Albion FC",
+            "dep": "Millwall FC",
+            "skor": "0-0",
             "dakika": "CANLI",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -65,9 +75,9 @@
             "lig": "Premier League",
             "ev": "West Ham United FC",
             "dep": "Wolverhampton Wanderers FC",
-            "skor": "1-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "skor": "4-0",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -75,19 +85,9 @@
             "lig": "Primera Division",
             "ev": "Real Madrid CF",
             "dep": "Girona FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "West Bromwich Albion FC",
-            "dep": "Millwall FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "skor": "1-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -95,9 +95,9 @@
             "lig": "Ligue 1",
             "ev": "Olympique de Marseille",
             "dep": "FC Metz",
-            "skor": "1-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "skor": "2-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -106,8 +106,8 @@
             "ev": "FC Famalicão",
             "dep": "Moreirense FC",
             "skor": "0-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
