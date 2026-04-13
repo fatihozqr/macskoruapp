@@ -1,10 +1,20 @@
 {
-    "son_guncelleme": "13-04-2026 03:50",
+    "son_guncelleme": "13-04-2026 06:11",
     "canli_maclar": [
         {
             "lig": "Serie A",
             "ev": "ACF Fiorentina",
             "dep": "SS Lazio",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "Levante UD",
+            "dep": "Getafe CF",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -15,16 +25,6 @@
             "lig": "Premier League",
             "ev": "Manchester United FC",
             "dep": "Leeds United FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Primera Division",
-            "ev": "Levante UD",
-            "dep": "Getafe CF",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
