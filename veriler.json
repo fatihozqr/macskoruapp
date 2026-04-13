@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "13-04-2026 22:58",
+    "son_guncelleme": "13-04-2026 23:54",
     "canli_maclar": [
         {
             "lig": "Serie A",
@@ -7,7 +7,17 @@
             "dep": "SS Lazio",
             "skor": "1-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "Levante UD",
+            "dep": "Getafe CF",
+            "skor": "1-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -22,22 +32,12 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Primera Division",
-            "ev": "Levante UD",
-            "dep": "Getafe CF",
-            "skor": "1-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
             "lig": "Primeira Liga",
             "ev": "CD Tondela",
             "dep": "Gil Vicente FC",
             "skor": "2-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
