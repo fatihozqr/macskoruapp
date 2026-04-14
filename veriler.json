@@ -1,10 +1,10 @@
 {
-    "son_guncelleme": "14-04-2026 08:53",
+    "son_guncelleme": "14-04-2026 10:16",
     "canli_maclar": [
         {
-            "lig": "UEFA Champions League",
-            "ev": "Club Atlético de Madrid",
-            "dep": "FC Barcelona",
+            "lig": "Championship",
+            "ev": "Southampton FC",
+            "dep": "Blackburn Rovers FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -12,19 +12,9 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Championship",
-            "ev": "Southampton FC",
-            "dep": "Blackburn Rovers FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "Portsmouth FC",
-            "dep": "Ipswich Town FC",
+            "lig": "UEFA Champions League",
+            "ev": "Club Atlético de Madrid",
+            "dep": "FC Barcelona",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -42,9 +32,19 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
+            "lig": "Championship",
+            "ev": "Portsmouth FC",
+            "dep": "Ipswich Town FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
             "lig": "Copa Libertadores",
-            "ev": "Club Nacional de Football",
-            "dep": "CD Tolima",
+            "ev": "Club Cerro Porteño",
+            "dep": "CDP Junior FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -63,8 +63,8 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Club Cerro Porteño",
-            "dep": "CDP Junior FC",
+            "ev": "Club Nacional de Football",
+            "dep": "CD Tolima",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -73,8 +73,8 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "CA Boca Juniors",
-            "dep": "Barcelona SC",
+            "ev": "Club Bolívar",
+            "dep": "Deportivo La Guaira FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -83,8 +83,8 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Club Bolívar",
-            "dep": "Deportivo La Guaira FC",
+            "ev": "CA Boca Juniors",
+            "dep": "Barcelona SC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
