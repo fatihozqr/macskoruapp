@@ -1,11 +1,11 @@
 {
-    "son_guncelleme": "15-04-2026 03:42",
+    "son_guncelleme": "15-04-2026 05:52",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
-            "ev": "Club Bolívar",
-            "dep": "Deportivo La Guaira FC",
-            "skor": "0-1",
+            "ev": "CA Boca Juniors",
+            "dep": "Barcelona SC",
+            "skor": "1-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -13,9 +13,9 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "CA Boca Juniors",
-            "dep": "Barcelona SC",
-            "skor": "1-0",
+            "ev": "Club Bolívar",
+            "dep": "Deportivo La Guaira FC",
+            "skor": "0-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -27,7 +27,7 @@
             "dep": "Mirassol FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -43,6 +43,16 @@
         },
         {
             "lig": "UEFA Champions League",
+            "ev": "Arsenal FC",
+            "dep": "Sporting Clube de Portugal",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "UEFA Champions League",
             "ev": "FC Bayern München",
             "dep": "Real Madrid CF",
             "skor": "0-0",
@@ -52,22 +62,12 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "UEFA Champions League",
-            "ev": "Arsenal FC",
-            "dep": "Sporting Clube de Portugal",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
             "lig": "Copa Libertadores",
             "ev": "Cruzeiro EC",
             "dep": "CD Universidad Católica",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -77,7 +77,7 @@
             "dep": "CA Rosario Central",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
