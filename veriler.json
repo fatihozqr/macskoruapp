@@ -1,23 +1,23 @@
 {
-    "son_guncelleme": "15-04-2026 19:38",
+    "son_guncelleme": "15-04-2026 20:28",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
-            "ev": "Club Bolívar",
-            "dep": "Deportivo La Guaira FC",
-            "skor": "0-1",
+            "ev": "CA Boca Juniors",
+            "dep": "Barcelona SC",
+            "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "CA Boca Juniors",
-            "dep": "Barcelona SC",
-            "skor": "1-0",
+            "ev": "Club Bolívar",
+            "dep": "Deportivo La Guaira FC",
+            "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,17 +37,7 @@
             "dep": "CD Coquimbo Unido",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "UEFA Champions League",
-            "ev": "FC Bayern München",
-            "dep": "Real Madrid CF",
-            "skor": "1-2",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -57,7 +47,17 @@
             "dep": "Sporting Clube de Portugal",
             "skor": "0-0",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "UEFA Champions League",
+            "ev": "FC Bayern München",
+            "dep": "Real Madrid CF",
+            "skor": "2-3",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -77,7 +77,7 @@
             "dep": "CD Universidad Católica",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
