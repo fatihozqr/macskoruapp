@@ -1,21 +1,21 @@
 {
-    "son_guncelleme": "16-04-2026 03:43",
+    "son_guncelleme": "16-04-2026 05:52",
     "canli_maclar": [
-        {
-            "lig": "Copa Libertadores",
-            "ev": "Fluminense FC",
-            "dep": "CS Independiente Rivadavia",
-            "skor": "1-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "Copa Libertadores",
             "ev": "SC Corinthians Paulista",
             "dep": "Independiente Santa Fe",
             "skor": "0-0",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Fluminense FC",
+            "dep": "CS Independiente Rivadavia",
+            "skor": "1-0",
             "dakika": "CANLI",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -33,8 +33,8 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "SE Palmeiras",
-            "dep": "CS Cristal",
+            "ev": "CA Lanús",
+            "dep": "Club Always Ready",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -43,8 +43,8 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "CA Lanús",
-            "dep": "Club Always Ready",
+            "ev": "SE Palmeiras",
+            "dep": "CS Cristal",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
