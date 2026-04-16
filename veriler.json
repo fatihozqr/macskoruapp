@@ -1,12 +1,12 @@
 {
-    "son_guncelleme": "16-04-2026 12:54",
+    "son_guncelleme": "16-04-2026 14:59",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
             "ev": "SC Corinthians Paulista",
             "dep": "Independiente Santa Fe",
             "skor": "0-0",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -15,8 +15,8 @@
             "lig": "Copa Libertadores",
             "ev": "Fluminense FC",
             "dep": "CS Independiente Rivadavia",
-            "skor": "1-0",
-            "dakika": "CANLI",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -27,7 +27,7 @@
             "dep": "Universidad Central de Venezuela FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +37,7 @@
             "dep": "Club Always Ready",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
