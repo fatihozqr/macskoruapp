@@ -1,10 +1,20 @@
 {
-    "son_guncelleme": "16-04-2026 23:55",
+    "son_guncelleme": "17-04-2026 03:28",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
-            "ev": "Fluminense FC",
-            "dep": "CS Independiente Rivadavia",
+            "ev": "CA Peñarol",
+            "dep": "CA Platense",
+            "skor": "0-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "CR Flamengo",
+            "dep": "CD Independiente Medellín",
             "skor": "1-0",
             "dakika": "CANLI",
             "ai_tahmini": "MS 1",
@@ -12,29 +22,29 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Copa Libertadores",
-            "ev": "SC Corinthians Paulista",
-            "dep": "Independiente Santa Fe",
+            "lig": "Serie A",
+            "ev": "US Sassuolo Calcio",
+            "dep": "Como 1907",
             "skor": "0-0",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Copa Libertadores",
-            "ev": "CAR Independiente del Valle",
-            "dep": "Universidad Central de Venezuela FC",
+            "lig": "Bundesliga",
+            "ev": "FC St. Pauli 1910",
+            "dep": "1. FC Köln",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Copa Libertadores",
-            "ev": "SE Palmeiras",
-            "dep": "CS Cristal",
+            "lig": "Ligue 1",
+            "ev": "Racing Club de Lens",
+            "dep": "Toulouse FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -42,12 +52,32 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Copa Libertadores",
-            "ev": "CA Lanús",
-            "dep": "Club Always Ready",
+            "lig": "Serie A",
+            "ev": "FC Internazionale Milano",
+            "dep": "Cagliari Calcio",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Blackburn Rovers FC",
+            "dep": "Coventry City FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primeira Liga",
+            "ev": "Rio Ave FC",
+            "dep": "AVS",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
