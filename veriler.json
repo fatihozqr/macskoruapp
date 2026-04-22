@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "22-04-2026 19:42",
+    "son_guncelleme": "22-04-2026 20:38",
     "canli_maclar": [
         {
             "lig": "Primera Division",
@@ -7,7 +7,7 @@
             "dep": "Club Atlético de Madrid",
             "skor": "3-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -22,22 +22,32 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Primera Division",
-            "ev": "Real Sociedad de Fútbol",
-            "dep": "Getafe CF",
-            "skor": "0-1",
-            "dakika": "CANLI",
+            "lig": "Eredivisie",
+            "ev": "Telstar 1963",
+            "dep": "Sparta Rotterdam",
+            "skor": "4-1",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Eredivisie",
-            "ev": "Telstar 1963",
-            "dep": "Sparta Rotterdam",
-            "skor": "3-1",
-            "dakika": "CANLI",
+            "lig": "Primera Division",
+            "ev": "Real Sociedad de Fútbol",
+            "dep": "Getafe CF",
+            "skor": "0-1",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Charlton Athletic FC",
+            "dep": "Ipswich Town FC",
+            "skor": "1-2",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -46,18 +56,18 @@
             "ev": "Middlesbrough FC",
             "dep": "Sheffield Wednesday FC",
             "skor": "1-0",
-            "dakika": "YAKINDA",
+            "dakika": "CANLI",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Championship",
-            "ev": "Charlton Athletic FC",
-            "dep": "Ipswich Town FC",
-            "skor": "1-1",
+            "ev": "Sheffield United FC",
+            "dep": "Blackburn Rovers FC",
+            "skor": "1-3",
             "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -66,18 +76,8 @@
             "ev": "Birmingham City FC",
             "dep": "Preston North End FC",
             "skor": "2-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "Sheffield United FC",
-            "dep": "Blackburn Rovers FC",
-            "skor": "0-3",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "dakika": "CANLI",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -85,7 +85,7 @@
             "lig": "Premier League",
             "ev": "AFC Bournemouth",
             "dep": "Leeds United FC",
-            "skor": "0-0",
+            "skor": "1-1",
             "dakika": "CANLI",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -105,9 +105,9 @@
             "lig": "Primera Division",
             "ev": "FC Barcelona",
             "dep": "RC Celta de Vigo",
-            "skor": "0-0",
+            "skor": "1-0",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
