@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "23-04-2026 20:07",
+    "son_guncelleme": "23-04-2026 21:07",
     "canli_maclar": [
         {
             "lig": "Eredivisie",
@@ -27,7 +27,7 @@
             "dep": "Sporting Clube de Braga",
             "skor": "0-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -36,8 +36,8 @@
             "ev": "Rayo Vallecano de Madrid",
             "dep": "RCD Espanyol de Barcelona",
             "skor": "1-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -45,9 +45,9 @@
             "lig": "Eredivisie",
             "ev": "PSV",
             "dep": "PEC Zwolle",
-            "skor": "1-0",
+            "skor": "6-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -57,7 +57,7 @@
             "dep": "Villarreal CF",
             "skor": "0-1",
             "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
