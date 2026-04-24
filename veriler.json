@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "24-04-2026 22:23",
+    "son_guncelleme": "24-04-2026 23:08",
     "canli_maclar": [
         {
             "lig": "Bundesliga",
@@ -7,17 +7,7 @@
             "dep": "1. FC Union Berlin",
             "skor": "3-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Ligue 1",
-            "ev": "Stade Brestois 29",
-            "dep": "Racing Club de Lens",
-            "skor": "3-3",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -32,10 +22,10 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Premier League",
-            "ev": "Sunderland AFC",
-            "dep": "Nottingham Forest FC",
-            "skor": "0-5",
+            "lig": "Ligue 1",
+            "ev": "Stade Brestois 29",
+            "dep": "Racing Club de Lens",
+            "skor": "3-3",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -47,7 +37,7 @@
             "dep": "Real Madrid CF",
             "skor": "1-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -62,12 +52,22 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
+            "lig": "Premier League",
+            "ev": "Sunderland AFC",
+            "dep": "Nottingham Forest FC",
+            "skor": "0-5",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
             "lig": "Primeira Liga",
             "ev": "FC Alverca",
             "dep": "FC Arouca",
             "skor": "2-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
