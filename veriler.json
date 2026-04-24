@@ -1,21 +1,11 @@
 {
-    "son_guncelleme": "24-04-2026 19:35",
+    "son_guncelleme": "24-04-2026 20:28",
     "canli_maclar": [
         {
             "lig": "Bundesliga",
             "ev": "RB Leipzig",
             "dep": "1. FC Union Berlin",
-            "skor": "2-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Ligue 1",
-            "ev": "Stade Brestois 29",
-            "dep": "Racing Club de Lens",
-            "skor": "3-0",
+            "skor": "3-1",
             "dakika": "CANLI",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -25,7 +15,17 @@
             "lig": "Serie A",
             "ev": "SSC Napoli",
             "dep": "US Cremonese",
-            "skor": "1-0",
+            "skor": "4-0",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Ligue 1",
+            "ev": "Stade Brestois 29",
+            "dep": "Racing Club de Lens",
+            "skor": "3-2",
             "dakika": "CANLI",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -35,9 +35,9 @@
             "lig": "Premier League",
             "ev": "Sunderland AFC",
             "dep": "Nottingham Forest FC",
-            "skor": "0-1",
+            "skor": "1-4",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +47,7 @@
             "dep": "Real Madrid CF",
             "skor": "0-1",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -66,8 +66,8 @@
             "ev": "FC Alverca",
             "dep": "FC Arouca",
             "skor": "1-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
