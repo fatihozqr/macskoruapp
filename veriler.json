@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "24-04-2026 23:08",
+    "son_guncelleme": "24-04-2026 23:55",
     "canli_maclar": [
         {
             "lig": "Bundesliga",
@@ -27,7 +27,7 @@
             "dep": "Racing Club de Lens",
             "skor": "3-3",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +37,7 @@
             "dep": "Real Madrid CF",
             "skor": "1-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +47,7 @@
             "dep": "Millwall FC",
             "skor": "1-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -67,7 +67,7 @@
             "dep": "FC Arouca",
             "skor": "2-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
