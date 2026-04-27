@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "27-04-2026 20:54",
+    "son_guncelleme": "27-04-2026 21:58",
     "canli_maclar": [
         {
             "lig": "Serie A",
@@ -26,8 +26,8 @@
             "ev": "Manchester United FC",
             "dep": "Brentford FC",
             "skor": "2-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -36,7 +36,7 @@
             "ev": "RCD Espanyol de Barcelona",
             "dep": "Levante UD",
             "skor": "0-0",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -45,9 +45,9 @@
             "lig": "Primeira Liga",
             "ev": "Gil Vicente FC",
             "dep": "Casa Pia AC",
-            "skor": "1-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "skor": "2-1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
