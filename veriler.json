@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "28-04-2026 04:02",
+    "son_guncelleme": "28-04-2026 06:41",
     "canli_maclar": [
         {
             "lig": "Championship",
@@ -7,7 +7,7 @@
             "dep": "Ipswich Town FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -15,16 +15,6 @@
             "lig": "UEFA Champions League",
             "ev": "Paris Saint-Germain FC",
             "dep": "FC Bayern München",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "Club Libertad Asuncion",
-            "dep": "CAR Independiente del Valle",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -43,11 +33,21 @@
         },
         {
             "lig": "Copa Libertadores",
+            "ev": "Club Libertad Asuncion",
+            "dep": "CAR Independiente del Valle",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
             "ev": "Universidad Central de Venezuela FC",
             "dep": "CA Rosario Central",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
