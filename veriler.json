@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "29-04-2026 21:17",
+    "son_guncelleme": "29-04-2026 22:14",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -37,7 +37,7 @@
             "dep": "CD Coquimbo Unido",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -56,7 +56,17 @@
             "ev": "Sporting Clube de Portugal",
             "dep": "CD Tondela",
             "skor": "2-2",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Mirassol FC",
+            "dep": "Club Always Ready",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -73,21 +83,11 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Mirassol FC",
-            "dep": "Club Always Ready",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
             "ev": "Barcelona SC",
             "dep": "CD Universidad Católica",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
