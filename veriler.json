@@ -1,11 +1,11 @@
 {
-    "son_guncelleme": "29-04-2026 01:24",
+    "son_guncelleme": "29-04-2026 04:54",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
             "ev": "Universidad Central de Venezuela FC",
             "dep": "CA Rosario Central",
-            "skor": "0-0",
+            "skor": "0-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -16,8 +16,8 @@
             "ev": "Cruzeiro EC",
             "dep": "CA Boca Juniors",
             "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "dakika": "CANLI",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -27,7 +27,7 @@
             "dep": "CDP Junior FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,17 +37,17 @@
             "dep": "CD Coquimbo Unido",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "UEFA Champions League",
-            "ev": null,
-            "dep": null,
+            "ev": "Club Atlético de Madrid",
+            "dep": "Arsenal FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -63,21 +63,21 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "CA Platense",
-            "dep": "Independiente Santa Fe",
+            "ev": "Mirassol FC",
+            "dep": "Club Always Ready",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Mirassol FC",
-            "dep": "Club Always Ready",
+            "ev": "CA Platense",
+            "dep": "Independiente Santa Fe",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -87,7 +87,7 @@
             "dep": "CD Universidad Católica",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
