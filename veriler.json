@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "29-04-2026 07:26",
+    "son_guncelleme": "29-04-2026 09:35",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -17,7 +17,7 @@
             "dep": "CA Boca Juniors",
             "skor": "0-0",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +37,7 @@
             "dep": "CD Coquimbo Unido",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +47,7 @@
             "dep": "Arsenal FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -57,7 +57,7 @@
             "dep": "CD Tondela",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -87,7 +87,7 @@
             "dep": "CD Universidad Católica",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
