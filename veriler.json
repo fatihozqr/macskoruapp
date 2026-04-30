@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "30-04-2026 14:33",
+    "son_guncelleme": "30-04-2026 16:07",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -17,7 +17,7 @@
             "dep": "CR Flamengo",
             "skor": "0-0",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -43,6 +43,16 @@
         },
         {
             "lig": "Copa Libertadores",
+            "ev": "Club Bolívar",
+            "dep": "Fluminense FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
             "ev": "CS Independiente Rivadavia",
             "dep": "Deportivo La Guaira FC",
             "skor": "0-0",
@@ -53,21 +63,11 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Club Bolívar",
-            "dep": "Fluminense FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
             "ev": "SC Corinthians Paulista",
             "dep": "CA Peñarol",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
