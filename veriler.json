@@ -1,11 +1,11 @@
 {
-    "son_guncelleme": "01-05-2026 19:58",
+    "son_guncelleme": "01-05-2026 21:03",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
             "ev": "SC Corinthians Paulista",
             "dep": "CA Peñarol",
-            "skor": "0-0",
+            "skor": "2-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -17,7 +17,7 @@
             "dep": "Cusco FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -25,9 +25,9 @@
             "lig": "Serie A",
             "ev": "AC Pisa 1909",
             "dep": "US Lecce",
-            "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "skor": "1-2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +37,7 @@
             "dep": "RCD Mallorca",
             "skor": "0-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -45,7 +45,7 @@
             "lig": "Premier League",
             "ev": "Leeds United FC",
             "dep": "Burnley FC",
-            "skor": "1-0",
+            "skor": "3-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
