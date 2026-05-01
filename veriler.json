@@ -1,11 +1,11 @@
 {
-    "son_guncelleme": "01-05-2026 07:38",
+    "son_guncelleme": "01-05-2026 09:21",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
             "ev": "SC Corinthians Paulista",
             "dep": "CA Peñarol",
-            "skor": "0-0",
+            "skor": "2-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -27,7 +27,7 @@
             "dep": "US Lecce",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +37,7 @@
             "dep": "Burnley FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +47,7 @@
             "dep": "RCD Mallorca",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
