@@ -1,10 +1,10 @@
 {
-    "son_guncelleme": "01-05-2026 23:04",
+    "son_guncelleme": "02-05-2026 00:03",
     "canli_maclar": [
         {
-            "lig": "Copa Libertadores",
-            "ev": "SC Corinthians Paulista",
-            "dep": "CA Peñarol",
+            "lig": "Championship",
+            "ev": "Ipswich Town FC",
+            "dep": "Queens Park Rangers FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -12,9 +12,9 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Copa Libertadores",
-            "ev": "CD Independiente Medellín",
-            "dep": "Cusco FC",
+            "lig": "Championship",
+            "ev": "Blackburn Rovers FC",
+            "dep": "Leicester City FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -22,20 +22,200 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Serie A",
-            "ev": "AC Pisa 1909",
-            "dep": "US Lecce",
-            "skor": "1-2",
+            "lig": "Championship",
+            "ev": "Portsmouth FC",
+            "dep": "Birmingham City FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Derby County FC",
+            "dep": "Sheffield United FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Sheffield Wednesday FC",
+            "dep": "West Bromwich Albion FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Watford FC",
+            "dep": "Coventry City FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Swansea City AFC",
+            "dep": "Charlton Athletic FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Millwall FC",
+            "dep": "Oxford United FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Bristol City FC",
+            "dep": "Stoke City FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Preston North End FC",
+            "dep": "Southampton FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Hull City AFC",
+            "dep": "Norwich City FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Wrexham AFC",
+            "dep": "Middlesbrough FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "Villarreal CF",
+            "dep": "Levante UD",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Ligue 1",
+            "ev": "FC Nantes",
+            "dep": "Olympique de Marseille",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Primera Division",
-            "ev": "Girona FC",
-            "dep": "RCD Mallorca",
-            "skor": "0-1",
+            "lig": "Serie A",
+            "ev": "Udinese Calcio",
+            "dep": "Torino FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Bundesliga",
+            "ev": "FC Bayern München",
+            "dep": "1. FC Heidenheim 1846",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Bundesliga",
+            "ev": "Eintracht Frankfurt",
+            "dep": "Hamburger SV",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Bundesliga",
+            "ev": "TSG 1899 Hoffenheim",
+            "dep": "VfB Stuttgart",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Bundesliga",
+            "ev": "1. FC Union Berlin",
+            "dep": "1. FC Köln",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Bundesliga",
+            "ev": "SV Werder Bremen",
+            "dep": "FC Augsburg",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Premier League",
+            "ev": "Newcastle United FC",
+            "dep": "Brighton & Hove Albion FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Premier League",
+            "ev": "Brentford FC",
+            "dep": "West Ham United FC",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -43,9 +223,249 @@
         },
         {
             "lig": "Premier League",
-            "ev": "Leeds United FC",
-            "dep": "Burnley FC",
-            "skor": "3-1",
+            "ev": "Wolverhampton Wanderers FC",
+            "dep": "Sunderland AFC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "Valencia CF",
+            "dep": "Club Atlético de Madrid",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primeira Liga",
+            "ev": "FC Arouca",
+            "dep": "CD Santa Clara",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primeira Liga",
+            "ev": "CD Nacional",
+            "dep": "AVS",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primeira Liga",
+            "ev": "Moreirense FC",
+            "dep": "CF Estrela da Amadora",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Eredivisie",
+            "ev": "FC Utrecht",
+            "dep": "NAC Breda",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Ligue 1",
+            "ev": "Paris Saint-Germain FC",
+            "dep": "FC Lorient",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Serie A",
+            "ev": "Como 1907",
+            "dep": "SSC Napoli",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "Deportivo Alavés",
+            "dep": "Athletic Club",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Premier League",
+            "ev": "Arsenal FC",
+            "dep": "Fulham FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Bundesliga",
+            "ev": "Bayer 04 Leverkusen",
+            "dep": "RB Leipzig",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Eredivisie",
+            "ev": "FC Groningen",
+            "dep": "SBV Excelsior",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Ligue 1",
+            "ev": "FC Metz",
+            "dep": "AS Monaco FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primeira Liga",
+            "ev": "FC Famalicão",
+            "dep": "Sport Lisboa e Benfica",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Eredivisie",
+            "ev": "AFC Ajax",
+            "dep": "PSV",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Serie A",
+            "ev": "Atalanta BC",
+            "dep": "Genoa CFC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "CA Osasuna",
+            "dep": "FC Barcelona",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Eredivisie",
+            "ev": "NEC",
+            "dep": "Telstar 1963",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "Botafogo FR",
+            "dep": "Clube do Remo",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Ligue 1",
+            "ev": "OGC Nice",
+            "dep": "Racing Club de Lens",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primeira Liga",
+            "ev": "FC Porto",
+            "dep": "FC Alverca",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "SE Palmeiras",
+            "dep": "Santos FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "EC Vitória",
+            "dep": "Coritiba FBC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "CA Paranaense",
+            "dep": "Grêmio FBPA",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "Cruzeiro EC",
+            "dep": "CA Mineiro",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
