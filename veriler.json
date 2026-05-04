@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "04-05-2026 20:20",
+    "son_guncelleme": "04-05-2026 21:35",
     "canli_maclar": [
         {
             "lig": "Premier League",
@@ -26,18 +26,8 @@
             "ev": "AS Roma",
             "dep": "ACF Fiorentina",
             "skor": "4-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Premier League",
-            "ev": "Everton FC",
-            "dep": "Manchester City FC",
-            "skor": "0-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -46,8 +36,18 @@
             "ev": "Sevilla FC",
             "dep": "Real Sociedad de Fútbol",
             "skor": "1-0",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Premier League",
+            "ev": "Everton FC",
+            "dep": "Manchester City FC",
+            "skor": "3-3",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -55,7 +55,7 @@
             "lig": "Primeira Liga",
             "ev": "Sporting Clube de Portugal",
             "dep": "Vitória SC",
-            "skor": "3-0",
+            "skor": "5-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
