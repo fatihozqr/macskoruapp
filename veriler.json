@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "04-05-2026 22:37",
+    "son_guncelleme": "04-05-2026 23:35",
     "canli_maclar": [
         {
             "lig": "Premier League",
@@ -7,7 +7,7 @@
             "dep": "Nottingham Forest FC",
             "skor": "1-3",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -27,6 +27,16 @@
             "dep": "ACF Fiorentina",
             "skor": "4-0",
             "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Premier League",
+            "ev": "Everton FC",
+            "dep": "Manchester City FC",
+            "skor": "3-3",
+            "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -36,16 +46,6 @@
             "ev": "Sevilla FC",
             "dep": "Real Sociedad de Fútbol",
             "skor": "1-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Premier League",
-            "ev": "Everton FC",
-            "dep": "Manchester City FC",
-            "skor": "3-3",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
