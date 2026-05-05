@@ -1,12 +1,12 @@
 {
-    "son_guncelleme": "05-05-2026 20:17",
+    "son_guncelleme": "05-05-2026 21:30",
     "canli_maclar": [
         {
             "lig": "UEFA Champions League",
             "ev": "Arsenal FC",
             "dep": "Club Atlético de Madrid",
             "skor": "1-0",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -27,7 +27,7 @@
             "dep": "Club Libertad Asuncion",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +37,7 @@
             "dep": "CAR Independiente del Valle",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
