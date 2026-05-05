@@ -1,10 +1,10 @@
 {
-    "son_guncelleme": "05-05-2026 14:21",
+    "son_guncelleme": "05-05-2026 17:50",
     "canli_maclar": [
         {
             "lig": "UEFA Champions League",
-            "ev": null,
-            "dep": null,
+            "ev": "Arsenal FC",
+            "dep": "Club Atlético de Madrid",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -27,7 +27,7 @@
             "dep": "SE Palmeiras",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +37,7 @@
             "dep": "CA Boca Juniors",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
