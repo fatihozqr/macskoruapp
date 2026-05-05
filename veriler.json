@@ -1,10 +1,20 @@
 {
-    "son_guncelleme": "05-05-2026 12:04",
+    "son_guncelleme": "05-05-2026 14:21",
     "canli_maclar": [
         {
             "lig": "UEFA Champions League",
-            "ev": "Arsenal FC",
-            "dep": "Club Atlético de Madrid",
+            "ev": null,
+            "dep": null,
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "CA Rosario Central",
+            "dep": "Club Libertad Asuncion",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -23,8 +33,8 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "CA Rosario Central",
-            "dep": "Club Libertad Asuncion",
+            "ev": "Barcelona SC",
+            "dep": "CA Boca Juniors",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -37,17 +47,7 @@
             "dep": "CAR Independiente del Valle",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "Barcelona SC",
-            "dep": "CA Boca Juniors",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
