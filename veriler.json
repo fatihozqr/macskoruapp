@@ -1,22 +1,12 @@
 {
-    "son_guncelleme": "05-05-2026 19:08",
+    "son_guncelleme": "05-05-2026 20:17",
     "canli_maclar": [
         {
             "lig": "UEFA Champions League",
             "ev": "Arsenal FC",
             "dep": "Club Atlético de Madrid",
-            "skor": "0-0",
+            "skor": "1-0",
             "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "CA Rosario Central",
-            "dep": "Club Libertad Asuncion",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -27,6 +17,26 @@
             "dep": "SE Palmeiras",
             "skor": "0-0",
             "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "CA Rosario Central",
+            "dep": "Club Libertad Asuncion",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Universidad Central de Venezuela FC",
+            "dep": "CAR Independiente del Valle",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -35,16 +45,6 @@
             "lig": "Copa Libertadores",
             "ev": "Barcelona SC",
             "dep": "CA Boca Juniors",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "Universidad Central de Venezuela FC",
-            "dep": "CAR Independiente del Valle",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
