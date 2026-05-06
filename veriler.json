@@ -1,5 +1,66 @@
 {
-    "son_guncelleme": "06-05-2026 12:00",
-    "canli_maclar": [],
-    "debug": "Iki API de cevap vermedi veya mac yok."
+    "son_guncelleme": "06-05-2026 14:40",
+    "canli_maclar": [
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Universidad Central de Venezuela FC",
+            "dep": "CAR Independiente del Valle",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Barcelona SC",
+            "dep": "CA Boca Juniors",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Club Always Ready",
+            "dep": "CA Lanús",
+            "skor": "1-0",
+            "dakika": "CANLI",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "UEFA Champions League",
+            "ev": "FC Bayern München",
+            "dep": "Paris Saint-Germain FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Deportivo La Guaira FC",
+            "dep": "Club Bolívar",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Cusco FC",
+            "dep": "Estudiantes de La Plata",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        }
+    ],
+    "debug": "Football-Data Basarili"
 }
