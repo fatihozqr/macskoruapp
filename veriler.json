@@ -1,6 +1,16 @@
 {
-    "son_guncelleme": "06-05-2026 19:57",
+    "son_guncelleme": "06-05-2026 21:18",
     "canli_maclar": [
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Barcelona SC",
+            "dep": "CA Boca Juniors",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
         {
             "lig": "Copa Libertadores",
             "ev": "Universidad Central de Venezuela FC",
@@ -13,21 +23,11 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Barcelona SC",
-            "dep": "CA Boca Juniors",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
             "ev": "Club Always Ready",
             "dep": "CA Lanús",
             "skor": "1-0",
             "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -35,9 +35,9 @@
             "lig": "UEFA Champions League",
             "ev": "FC Bayern München",
             "dep": "Paris Saint-Germain FC",
-            "skor": "0-1",
+            "skor": "1-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -57,7 +57,7 @@
             "dep": "Club Bolívar",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
