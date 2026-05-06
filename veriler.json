@@ -1,23 +1,23 @@
 {
-    "son_guncelleme": "06-05-2026 04:45",
+    "son_guncelleme": "06-05-2026 07:27",
     "canli_maclar": [
-        {
-            "lig": "Copa Libertadores",
-            "ev": "Universidad Central de Venezuela FC",
-            "dep": "CAR Independiente del Valle",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "Copa Libertadores",
             "ev": "Barcelona SC",
             "dep": "CA Boca Juniors",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Universidad Central de Venezuela FC",
+            "dep": "CAR Independiente del Valle",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -25,16 +25,26 @@
             "lig": "Copa Libertadores",
             "ev": "Club Always Ready",
             "dep": "CA Lanús",
-            "skor": "1-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "UEFA Champions League",
-            "ev": "FC Bayern München",
-            "dep": "Paris Saint-Germain FC",
+            "ev": null,
+            "dep": null,
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Deportivo La Guaira FC",
+            "dep": "Club Bolívar",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -45,16 +55,6 @@
             "lig": "Copa Libertadores",
             "ev": "Cusco FC",
             "dep": "Estudiantes de La Plata",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "Deportivo La Guaira FC",
-            "dep": "Club Bolívar",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
