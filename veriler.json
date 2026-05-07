@@ -1,13 +1,13 @@
 {
-    "son_guncelleme": "07-05-2026 00:05",
+    "son_guncelleme": "07-05-2026 04:02",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
             "ev": "CS Independiente Rivadavia",
             "dep": "Fluminense FC",
             "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -16,18 +16,8 @@
             "ev": "Independiente Santa Fe",
             "dep": "SC Corinthians Paulista",
             "skor": "0-0",
-            "dakika": "YAKINDA",
+            "dakika": "CANLI",
             "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "CD Universidad Católica",
-            "dep": "Cruzeiro EC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -43,11 +33,11 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "CA Platense",
-            "dep": "CA Peñarol",
+            "ev": "CD Universidad Católica",
+            "dep": "Cruzeiro EC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -57,7 +47,17 @@
             "dep": "LDU de Quito",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "CA Platense",
+            "dep": "CA Peñarol",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -67,7 +67,7 @@
             "dep": "Club Universitario de Deportes",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
