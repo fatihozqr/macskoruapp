@@ -1,10 +1,10 @@
 {
-    "son_guncelleme": "06-05-2026 23:08",
+    "son_guncelleme": "07-05-2026 00:05",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
-            "ev": "Universidad Central de Venezuela FC",
-            "dep": "CAR Independiente del Valle",
+            "ev": "CS Independiente Rivadavia",
+            "dep": "Fluminense FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -13,38 +13,18 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Barcelona SC",
-            "dep": "CA Boca Juniors",
+            "ev": "Independiente Santa Fe",
+            "dep": "SC Corinthians Paulista",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Club Always Ready",
-            "dep": "CA Lanús",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "UEFA Champions League",
-            "ev": null,
-            "dep": null,
-            "skor": "1-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "Deportivo La Guaira FC",
-            "dep": "Club Bolívar",
+            "ev": "CD Universidad Católica",
+            "dep": "Cruzeiro EC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -53,11 +33,41 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Cusco FC",
-            "dep": "Estudiantes de La Plata",
+            "ev": "CD Tolima",
+            "dep": "Club Nacional de Football",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "CA Platense",
+            "dep": "CA Peñarol",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Mirassol FC",
+            "dep": "LDU de Quito",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "CD Coquimbo Unido",
+            "dep": "Club Universitario de Deportes",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
