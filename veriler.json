@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "07-05-2026 11:27",
+    "son_guncelleme": "07-05-2026 13:16",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -7,7 +7,7 @@
             "dep": "Fluminense FC",
             "skor": "0-0",
             "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -17,16 +17,6 @@
             "dep": "SC Corinthians Paulista",
             "skor": "0-0",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "CD Tolima",
-            "dep": "Club Nacional de Football",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -43,11 +33,11 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "CA Platense",
-            "dep": "CA Peñarol",
+            "ev": "CD Tolima",
+            "dep": "Club Nacional de Football",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -55,6 +45,16 @@
             "lig": "Copa Libertadores",
             "ev": "Mirassol FC",
             "dep": "LDU de Quito",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "CA Platense",
+            "dep": "CA Peñarol",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
