@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "09-05-2026 06:59",
+    "son_guncelleme": "09-05-2026 08:47",
     "canli_maclar": [
         {
             "lig": "Premier League",
@@ -17,7 +17,7 @@
             "dep": "Deportivo Alavés",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -25,16 +25,6 @@
             "lig": "Serie A",
             "ev": "Cagliari Calcio",
             "dep": "Udinese Calcio",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "Middlesbrough FC",
-            "dep": "Southampton FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -57,17 +47,17 @@
             "dep": "FC St. Pauli 1910",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Bundesliga",
-            "ev": "VfB Stuttgart",
-            "dep": "Bayer 04 Leverkusen",
+            "lig": "Championship",
+            "ev": "Middlesbrough FC",
+            "dep": "Southampton FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -77,27 +67,17 @@
             "dep": "Borussia Mönchengladbach",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Premier League",
-            "ev": "Sunderland AFC",
-            "dep": "Manchester United FC",
+            "lig": "Bundesliga",
+            "ev": "VfB Stuttgart",
+            "dep": "Bayer 04 Leverkusen",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Premier League",
-            "ev": "Fulham FC",
-            "dep": "AFC Bournemouth",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -107,7 +87,27 @@
             "dep": "Wolverhampton Wanderers FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Premier League",
+            "ev": "Sunderland AFC",
+            "dep": "Manchester United FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Premier League",
+            "ev": "Fulham FC",
+            "dep": "AFC Bournemouth",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -117,7 +117,7 @@
             "dep": "RCD Espanyol de Barcelona",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -127,7 +127,17 @@
             "dep": "FC Internazionale Milano",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Bundesliga",
+            "ev": "VfL Wolfsburg",
+            "dep": "FC Bayern München",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -142,22 +152,12 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Bundesliga",
-            "ev": "VfL Wolfsburg",
-            "dep": "FC Bayern München",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
             "lig": "Premier League",
             "ev": "Manchester City FC",
             "dep": "Brentford FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -167,7 +167,7 @@
             "dep": "Juventus FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -207,7 +207,7 @@
             "dep": "Cruzeiro EC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
