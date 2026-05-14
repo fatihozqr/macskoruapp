@@ -1,13 +1,13 @@
 {
-    "son_guncelleme": "14-05-2026 18:20",
+    "son_guncelleme": "14-05-2026 20:11",
     "canli_maclar": [
         {
             "lig": "Primera Division",
             "ev": "Valencia CF",
             "dep": "Rayo Vallecano de Madrid",
             "skor": "1-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -15,9 +15,9 @@
             "lig": "Primera Division",
             "ev": "Girona FC",
             "dep": "Real Sociedad de Fútbol",
-            "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "skor": "1-1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -26,8 +26,8 @@
             "ev": "Real Madrid CF",
             "dep": "Real Oviedo",
             "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
