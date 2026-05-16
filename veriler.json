@@ -1,12 +1,22 @@
 {
-    "son_guncelleme": "16-05-2026 12:44",
+    "son_guncelleme": "16-05-2026 14:13",
     "canli_maclar": [
+        {
+            "lig": "Bundesliga",
+            "ev": "Eintracht Frankfurt",
+            "dep": "VfB Stuttgart",
+            "skor": "0-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
         {
             "lig": "Bundesliga",
             "ev": "1. FC Union Berlin",
             "dep": "FC Augsburg",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
+            "skor": "1-0",
+            "dakika": "CANLI",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -15,9 +25,9 @@
             "lig": "Bundesliga",
             "ev": "1. FC Heidenheim 1846",
             "dep": "1. FSV Mainz 05",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "skor": "0-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -25,19 +35,19 @@
             "lig": "Bundesliga",
             "ev": "FC Bayern München",
             "dep": "1. FC Köln",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "skor": "3-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Bundesliga",
-            "ev": "Eintracht Frankfurt",
-            "dep": "VfB Stuttgart",
+            "ev": "Bayer 04 Leverkusen",
+            "dep": "Hamburger SV",
             "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -45,8 +55,8 @@
             "lig": "Bundesliga",
             "ev": "FC St. Pauli 1910",
             "dep": "VfL Wolfsburg",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
+            "skor": "0-1",
+            "dakika": "CANLI",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -56,7 +66,7 @@
             "ev": "SV Werder Bremen",
             "dep": "Borussia Dortmund",
             "skor": "0-0",
-            "dakika": "YAKINDA",
+            "dakika": "CANLI",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -65,9 +75,9 @@
             "lig": "Bundesliga",
             "ev": "Borussia Mönchengladbach",
             "dep": "TSG 1899 Hoffenheim",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "skor": "2-0",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -75,19 +85,19 @@
             "lig": "Bundesliga",
             "ev": "SC Freiburg",
             "dep": "RB Leipzig",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "skor": "2-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Bundesliga",
-            "ev": "Bayer 04 Leverkusen",
-            "dep": "Hamburger SV",
+            "lig": "Primeira Liga",
+            "ev": "FC Porto",
+            "dep": "CD Santa Clara",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -97,14 +107,24 @@
             "dep": "AVS",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Primeira Liga",
-            "ev": "FC Porto",
-            "dep": "CD Santa Clara",
+            "ev": "CD Nacional",
+            "dep": "Vitória SC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primeira Liga",
+            "ev": "FC Arouca",
+            "dep": "CD Tondela",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -127,46 +147,6 @@
             "dep": "CF Estrela da Amadora",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Primeira Liga",
-            "ev": "CD Nacional",
-            "dep": "Vitória SC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Primeira Liga",
-            "ev": "FC Arouca",
-            "dep": "CD Tondela",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Primeira Liga",
-            "ev": "GD Estoril Praia",
-            "dep": "Sport Lisboa e Benfica",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Primeira Liga",
-            "ev": "Sporting Clube de Portugal",
-            "dep": "Gil Vicente FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -177,6 +157,36 @@
             "dep": "FC Alverca",
             "skor": "0-0",
             "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primeira Liga",
+            "ev": "Sporting Clube de Portugal",
+            "dep": "Gil Vicente FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primeira Liga",
+            "ev": "GD Estoril Praia",
+            "dep": "Sport Lisboa e Benfica",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "CA Mineiro",
+            "dep": "Mirassol FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -185,16 +195,6 @@
             "lig": "Campeonato Brasileiro Série A",
             "ev": "SC Internacional",
             "dep": "CR Vasco da Gama",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "CA Mineiro",
-            "dep": "Mirassol FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -217,7 +217,7 @@
             "dep": "Cruzeiro EC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
