@@ -1,43 +1,13 @@
 {
-    "son_guncelleme": "16-05-2026 17:36",
+    "son_guncelleme": "16-05-2026 18:39",
     "canli_maclar": [
         {
             "lig": "Bundesliga",
-            "ev": "1. FC Union Berlin",
-            "dep": "FC Augsburg",
-            "skor": "4-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Bundesliga",
-            "ev": "1. FC Heidenheim 1846",
-            "dep": "1. FSV Mainz 05",
+            "ev": "SV Werder Bremen",
+            "dep": "Borussia Dortmund",
             "skor": "0-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Bundesliga",
-            "ev": "FC Bayern München",
-            "dep": "1. FC Köln",
-            "skor": "5-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Bundesliga",
-            "ev": "Eintracht Frankfurt",
-            "dep": "VfB Stuttgart",
-            "skor": "2-2",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -57,7 +27,7 @@
             "dep": "RB Leipzig",
             "skor": "4-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -67,7 +37,7 @@
             "dep": "Hamburger SV",
             "skor": "1-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -77,17 +47,57 @@
             "dep": "VfL Wolfsburg",
             "skor": "1-3",
             "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Bundesliga",
+            "ev": "1. FC Union Berlin",
+            "dep": "FC Augsburg",
+            "skor": "4-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Bundesliga",
+            "ev": "1. FC Heidenheim 1846",
+            "dep": "1. FSV Mainz 05",
+            "skor": "0-2",
+            "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Bundesliga",
-            "ev": "SV Werder Bremen",
-            "dep": "Borussia Dortmund",
-            "skor": "0-2",
+            "ev": "FC Bayern München",
+            "dep": "1. FC Köln",
+            "skor": "5-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Bundesliga",
+            "ev": "Eintracht Frankfurt",
+            "dep": "VfB Stuttgart",
+            "skor": "2-2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primeira Liga",
+            "ev": "Moreirense FC",
+            "dep": "AVS",
+            "skor": "0-1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -103,21 +113,21 @@
         },
         {
             "lig": "Primeira Liga",
-            "ev": "Moreirense FC",
-            "dep": "AVS",
-            "skor": "0-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ev": "Sporting Clube de Braga",
+            "dep": "CF Estrela da Amadora",
+            "skor": "1-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Primeira Liga",
-            "ev": "FC Arouca",
-            "dep": "CD Tondela",
-            "skor": "1-0",
+            "ev": "Casa Pia AC",
+            "dep": "Rio Ave FC",
+            "skor": "2-1",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -133,28 +143,18 @@
         },
         {
             "lig": "Primeira Liga",
-            "ev": "Sporting Clube de Braga",
-            "dep": "CF Estrela da Amadora",
+            "ev": "FC Arouca",
+            "dep": "CD Tondela",
             "skor": "1-1",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Primeira Liga",
-            "ev": "Casa Pia AC",
-            "dep": "Rio Ave FC",
-            "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Primeira Liga",
-            "ev": "FC Famalicão",
-            "dep": "FC Alverca",
+            "ev": "GD Estoril Praia",
+            "dep": "Sport Lisboa e Benfica",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -173,18 +173,8 @@
         },
         {
             "lig": "Primeira Liga",
-            "ev": "GD Estoril Praia",
-            "dep": "Sport Lisboa e Benfica",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "SC Internacional",
-            "dep": "CR Vasco da Gama",
+            "ev": "FC Famalicão",
+            "dep": "FC Alverca",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -198,6 +188,16 @@
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "SC Internacional",
+            "dep": "CR Vasco da Gama",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
