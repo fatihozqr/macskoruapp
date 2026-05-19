@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "19-05-2026 14:14",
+    "son_guncelleme": "19-05-2026 17:20",
     "canli_maclar": [
         {
             "lig": "Premier League",
@@ -15,26 +15,6 @@
             "lig": "Premier League",
             "ev": "Chelsea FC",
             "dep": "Tottenham Hotspur FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "CA Rosario Central",
-            "dep": "Universidad Central de Venezuela FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "CD Coquimbo Unido",
-            "dep": "CD Tolima",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -53,11 +33,21 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Independiente Santa Fe",
-            "dep": "CA Platense",
+            "ev": "CA Rosario Central",
+            "dep": "Universidad Central de Venezuela FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "CD Coquimbo Unido",
+            "dep": "CD Tolima",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -67,7 +57,17 @@
             "dep": "Mirassol FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Independiente Santa Fe",
+            "dep": "CA Platense",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
