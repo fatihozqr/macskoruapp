@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "19-05-2026 22:22",
+    "son_guncelleme": "19-05-2026 23:39",
     "canli_maclar": [
         {
             "lig": "Premier League",
@@ -23,11 +23,11 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "CD Coquimbo Unido",
-            "dep": "CD Tolima",
+            "ev": "Fluminense FC",
+            "dep": "Club Bolívar",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,17 +37,17 @@
             "dep": "Universidad Central de Venezuela FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Fluminense FC",
-            "dep": "Club Bolívar",
+            "ev": "CD Coquimbo Unido",
+            "dep": "CD Tolima",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
