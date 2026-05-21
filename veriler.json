@@ -1,22 +1,12 @@
 {
-    "son_guncelleme": "21-05-2026 21:52",
+    "son_guncelleme": "21-05-2026 23:03",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
             "ev": "CR Flamengo",
             "dep": "Estudiantes de La Plata",
             "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "LDU de Quito",
-            "dep": "CA Lanús",
-            "skor": "0-0",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -26,8 +16,18 @@
             "ev": "SE Palmeiras",
             "dep": "Club Cerro Porteño",
             "skor": "0-0",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "LDU de Quito",
+            "dep": "CA Lanús",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +47,7 @@
             "dep": "CD Independiente Medellín",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
