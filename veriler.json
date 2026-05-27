@@ -1,11 +1,11 @@
 {
-    "son_guncelleme": "27-05-2026 20:37",
+    "son_guncelleme": "27-05-2026 22:22",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
-            "ev": "CR Flamengo",
-            "dep": "Cusco FC",
-            "skor": "0-0",
+            "ev": "Club Nacional de Football",
+            "dep": "CD Coquimbo Unido",
+            "skor": "1-0",
             "dakika": "CANLI",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -13,21 +13,11 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Club Nacional de Football",
-            "dep": "CD Coquimbo Unido",
-            "skor": "1-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "Club Universitario de Deportes",
-            "dep": "CD Tolima",
+            "ev": "CR Flamengo",
+            "dep": "Cusco FC",
             "skor": "0-0",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -43,11 +33,11 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "Club Libertad Asuncion",
-            "dep": "Universidad Central de Venezuela FC",
+            "ev": "Club Universitario de Deportes",
+            "dep": "CD Tolima",
             "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "dakika": "CANLI",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -58,6 +48,16 @@
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Club Libertad Asuncion",
+            "dep": "Universidad Central de Venezuela FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
