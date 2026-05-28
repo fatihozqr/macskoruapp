@@ -1,26 +1,6 @@
 {
-    "son_guncelleme": "28-05-2026 19:57",
+    "son_guncelleme": "28-05-2026 22:02",
     "canli_maclar": [
-        {
-            "lig": "Copa Libertadores",
-            "ev": "Fluminense FC",
-            "dep": "Deportivo La Guaira FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "CA Peñarol",
-            "dep": "Independiente Santa Fe",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "Copa Libertadores",
             "ev": "Club Bolívar",
@@ -43,8 +23,18 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "SE Palmeiras",
-            "dep": "CDP Junior FC",
+            "ev": "Fluminense FC",
+            "dep": "Deportivo La Guaira FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "CA Peñarol",
+            "dep": "Independiente Santa Fe",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -55,6 +45,16 @@
             "lig": "Copa Libertadores",
             "ev": "Club Cerro Porteño",
             "dep": "CS Cristal",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "SE Palmeiras",
+            "dep": "CDP Junior FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
