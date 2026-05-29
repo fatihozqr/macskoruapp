@@ -1,22 +1,22 @@
 {
-    "son_guncelleme": "29-05-2026 10:12",
+    "son_guncelleme": "29-05-2026 13:35",
     "canli_maclar": [
-        {
-            "lig": "Copa Libertadores",
-            "ev": "Cruzeiro EC",
-            "dep": "Barcelona SC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "Copa Libertadores",
             "ev": "CA Boca Juniors",
             "dep": "CD Universidad Católica",
             "skor": "0-0",
-            "dakika": "YAKINDA",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "Cruzeiro EC",
+            "dep": "Barcelona SC",
+            "skor": "1-0",
+            "dakika": "CANLI",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
