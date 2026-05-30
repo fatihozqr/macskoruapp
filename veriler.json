@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "30-05-2026 21:14",
+    "son_guncelleme": "30-05-2026 22:16",
     "canli_maclar": [
         {
             "lig": "UEFA Champions League",
@@ -8,16 +8,6 @@
             "skor": "5-4",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "CA Paranaense",
-            "dep": "Mirassol FC",
-            "skor": "1-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -33,11 +23,21 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
+            "ev": "CA Paranaense",
+            "dep": "Mirassol FC",
+            "skor": "1-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
             "ev": "EC Bahia",
             "dep": "Botafogo FR",
-            "skor": "0-1",
+            "skor": "1-1",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -45,7 +45,7 @@
             "lig": "Campeonato Brasileiro Série A",
             "ev": "Grêmio FBPA",
             "dep": "SC Corinthians Paulista",
-            "skor": "1-0",
+            "skor": "1-3",
             "dakika": "CANLI",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
