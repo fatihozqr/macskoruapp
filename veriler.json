@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "30-05-2026 04:18",
+    "son_guncelleme": "30-05-2026 07:24",
     "canli_maclar": [
         {
             "lig": "UEFA Champions League",
@@ -13,8 +13,8 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "CR Flamengo",
-            "dep": "Coritiba FBC",
+            "ev": "CA Paranaense",
+            "dep": "Mirassol FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -23,8 +23,8 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "CA Paranaense",
-            "dep": "Mirassol FC",
+            "ev": "CR Flamengo",
+            "dep": "Coritiba FBC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
