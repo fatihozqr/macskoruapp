@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "31-05-2026 20:43",
+    "son_guncelleme": "31-05-2026 21:43",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
@@ -16,7 +16,7 @@
             "ev": "SE Palmeiras",
             "dep": "Chapecoense AF",
             "skor": "1-0",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -26,16 +26,6 @@
             "ev": "CR Vasco da Gama",
             "dep": "CA Mineiro",
             "skor": "0-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "Clube do Remo",
-            "dep": "São Paulo FC",
-            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -45,6 +35,16 @@
             "lig": "Campeonato Brasileiro Série A",
             "ev": "Cruzeiro EC",
             "dep": "Fluminense FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "Clube do Remo",
+            "dep": "São Paulo FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
