@@ -1,56 +1,5 @@
 {
-    "son_guncelleme": "31-05-2026 23:49",
-    "canli_maclar": [
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "RB Bragantino",
-            "dep": "SC Internacional",
-            "skor": "3-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "CR Vasco da Gama",
-            "dep": "CA Mineiro",
-            "skor": "0-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "SE Palmeiras",
-            "dep": "Chapecoense AF",
-            "skor": "1-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "Clube do Remo",
-            "dep": "São Paulo FC",
-            "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "Cruzeiro EC",
-            "dep": "Fluminense FC",
-            "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        }
-    ],
+    "son_guncelleme": "01-06-2026 02:40",
+    "canli_maclar": [],
     "debug": "Football-Data Basarili"
 }
