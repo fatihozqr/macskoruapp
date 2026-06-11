@@ -1,5 +1,16 @@
 {
-    "son_guncelleme": "10-06-2026 23:43",
-    "canli_maclar": [],
+    "son_guncelleme": "11-06-2026 02:05",
+    "canli_maclar": [
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Mexico",
+            "dep": "South Africa",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        }
+    ],
     "debug": "Football-Data Basarili"
 }
