@@ -1,11 +1,11 @@
 {
-    "son_guncelleme": "13-06-2026 23:58",
+    "son_guncelleme": "14-06-2026 05:03",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
-            "ev": "United States",
-            "dep": "Paraguay",
-            "skor": "4-1",
+            "ev": "Haiti",
+            "dep": "Scotland",
+            "skor": "0-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -13,9 +13,19 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Qatar",
-            "dep": "Switzerland",
-            "skor": "1-1",
+            "ev": "Australia",
+            "dep": "Turkey",
+            "skor": "1-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Germany",
+            "dep": "Curaçao",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -23,10 +33,20 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Brazil",
-            "dep": "Morocco",
-            "skor": "1-1",
-            "dakika": "CANLI",
+            "ev": "Netherlands",
+            "dep": "Japan",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Ivory Coast",
+            "dep": "Ecuador",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
