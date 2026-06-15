@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "15-06-2026 19:56",
+    "son_guncelleme": "15-06-2026 22:24",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
@@ -25,8 +25,8 @@
             "lig": "FIFA World Cup",
             "ev": "Belgium",
             "dep": "Egypt",
-            "skor": "0-1",
-            "dakika": "CANLI",
+            "skor": "1-1",
+            "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -36,8 +36,8 @@
             "ev": "Saudi Arabia",
             "dep": "Uruguay",
             "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "dakika": "CANLI",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
