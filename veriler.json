@@ -1,11 +1,11 @@
 {
-    "son_guncelleme": "14-06-2026 23:53",
+    "son_guncelleme": "15-06-2026 04:26",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
-            "ev": "Haiti",
-            "dep": "Scotland",
-            "skor": "0-1",
+            "ev": "Sweden",
+            "dep": "Tunisia",
+            "skor": "5-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -13,41 +13,31 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Australia",
-            "dep": "Turkey",
-            "skor": "2-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Germany",
-            "dep": "Curaçao",
-            "skor": "7-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Netherlands",
-            "dep": "Japan",
-            "skor": "2-2",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Ivory Coast",
-            "dep": "Ecuador",
+            "ev": "Spain",
+            "dep": "Cape Verde Islands",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Belgium",
+            "dep": "Egypt",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Saudi Arabia",
+            "dep": "Uruguay",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
