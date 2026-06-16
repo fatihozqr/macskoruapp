@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "16-06-2026 21:47",
+    "son_guncelleme": "16-06-2026 23:14",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
@@ -7,7 +7,7 @@
             "dep": "New Zealand",
             "skor": "2-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -25,7 +25,7 @@
             "lig": "FIFA World Cup",
             "ev": "Iraq",
             "dep": "Norway",
-            "skor": "0-0",
+            "skor": "1-2",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
