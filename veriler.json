@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "18-06-2026 18:18",
+    "son_guncelleme": "18-06-2026 20:41",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
@@ -25,9 +25,9 @@
             "lig": "FIFA World Cup",
             "ev": "Switzerland",
             "dep": "Bosnia-Herzegovina",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "skor": "1-0",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +37,7 @@
             "dep": "Qatar",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
