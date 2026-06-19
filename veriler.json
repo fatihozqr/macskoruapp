@@ -1,13 +1,13 @@
 {
-    "son_guncelleme": "19-06-2026 00:16",
+    "son_guncelleme": "19-06-2026 05:29",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
             "ev": "Mexico",
             "dep": "South Korea",
-            "skor": "0-0",
+            "skor": "1-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -27,7 +27,7 @@
             "dep": "Morocco",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
