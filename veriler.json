@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "19-06-2026 21:35",
+    "son_guncelleme": "19-06-2026 22:36",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
@@ -17,7 +17,7 @@
             "dep": "Australia",
             "skor": "2-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -25,9 +25,9 @@
             "lig": "FIFA World Cup",
             "ev": "Scotland",
             "dep": "Morocco",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "skor": "0-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
