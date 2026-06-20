@@ -1,21 +1,21 @@
 {
-    "son_guncelleme": "19-06-2026 23:47",
+    "son_guncelleme": "20-06-2026 01:56",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
-            "ev": "Mexico",
-            "dep": "South Korea",
-            "skor": "1-0",
-            "dakika": "YAKINDA",
+            "ev": "Brazil",
+            "dep": "Haiti",
+            "skor": "3-0",
+            "dakika": "CANLI",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "United States",
-            "dep": "Australia",
-            "skor": "2-0",
+            "ev": "Turkey",
+            "dep": "Paraguay",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -23,11 +23,31 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Scotland",
-            "dep": "Morocco",
-            "skor": "0-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "ev": "Netherlands",
+            "dep": "Sweden",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Germany",
+            "dep": "Ivory Coast",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Ecuador",
+            "dep": "Curaçao",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
