@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "20-06-2026 20:23",
+    "son_guncelleme": "20-06-2026 21:48",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
@@ -7,7 +7,7 @@
             "dep": "Haiti",
             "skor": "3-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -27,7 +27,7 @@
             "dep": "Sweden",
             "skor": "5-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -35,9 +35,9 @@
             "lig": "FIFA World Cup",
             "ev": "Germany",
             "dep": "Ivory Coast",
-            "skor": "0-0",
+            "skor": "1-1",
             "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +47,7 @@
             "dep": "Curaçao",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
