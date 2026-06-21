@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "21-06-2026 17:56",
+    "son_guncelleme": "21-06-2026 19:56",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
@@ -17,7 +17,7 @@
             "dep": "Japan",
             "skor": "0-4",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -25,8 +25,8 @@
             "lig": "FIFA World Cup",
             "ev": "Spain",
             "dep": "Saudi Arabia",
-            "skor": "4-0",
-            "dakika": "CANLI",
+            "skor": "5-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -35,8 +35,8 @@
             "lig": "FIFA World Cup",
             "ev": "Belgium",
             "dep": "Iran",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
+            "skor": "0-1",
+            "dakika": "CANLI",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -47,7 +47,7 @@
             "dep": "Cape Verde Islands",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
