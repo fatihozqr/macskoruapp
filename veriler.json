@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "21-06-2026 05:21",
+    "son_guncelleme": "21-06-2026 09:06",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
@@ -7,7 +7,7 @@
             "dep": "Curaçao",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -15,8 +15,8 @@
             "lig": "FIFA World Cup",
             "ev": "Tunisia",
             "dep": "Japan",
-            "skor": "0-2",
-            "dakika": "CANLI",
+            "skor": "0-4",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
