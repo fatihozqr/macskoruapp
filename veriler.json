@@ -1,21 +1,21 @@
 {
-    "son_guncelleme": "21-06-2026 23:58",
+    "son_guncelleme": "22-06-2026 05:23",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
-            "ev": "Ecuador",
-            "dep": "Curaçao",
-            "skor": "0-0",
+            "ev": "New Zealand",
+            "dep": "Egypt",
+            "skor": "1-3",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Tunisia",
-            "dep": "Japan",
-            "skor": "0-4",
+            "ev": "Argentina",
+            "dep": "Austria",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -23,30 +23,20 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Spain",
-            "dep": "Saudi Arabia",
-            "skor": "4-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Belgium",
-            "dep": "Iran",
+            "ev": "France",
+            "dep": "Iraq",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Uruguay",
-            "dep": "Cape Verde Islands",
-            "skor": "2-2",
-            "dakika": "CANLI",
+            "ev": "Norway",
+            "dep": "Senegal",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
