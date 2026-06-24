@@ -1,21 +1,11 @@
 {
-    "son_guncelleme": "24-06-2026 18:15",
+    "son_guncelleme": "24-06-2026 20:14",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
             "ev": "Colombia",
             "dep": "Congo DR",
             "skor": "1-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Switzerland",
-            "dep": "Canada",
-            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -25,6 +15,26 @@
             "lig": "FIFA World Cup",
             "ev": "Bosnia-Herzegovina",
             "dep": "Qatar",
+            "skor": "2-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Switzerland",
+            "dep": "Canada",
+            "skor": "1-0",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Morocco",
+            "dep": "Haiti",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -37,17 +47,7 @@
             "dep": "Brazil",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Morocco",
-            "dep": "Haiti",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
