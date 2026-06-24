@@ -1,21 +1,11 @@
 {
-    "son_guncelleme": "24-06-2026 01:33",
+    "son_guncelleme": "24-06-2026 05:47",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
             "ev": "Colombia",
             "dep": "Congo DR",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Bosnia-Herzegovina",
-            "dep": "Qatar",
-            "skor": "0-0",
+            "skor": "1-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -27,17 +17,17 @@
             "dep": "Canada",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Morocco",
-            "dep": "Haiti",
+            "ev": "Bosnia-Herzegovina",
+            "dep": "Qatar",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -45,6 +35,16 @@
             "lig": "FIFA World Cup",
             "ev": "Scotland",
             "dep": "Brazil",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Morocco",
+            "dep": "Haiti",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
