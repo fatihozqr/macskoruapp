@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "24-06-2026 08:47",
+    "son_guncelleme": "24-06-2026 11:34",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
@@ -7,7 +7,17 @@
             "dep": "Congo DR",
             "skor": "1-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Switzerland",
+            "dep": "Canada",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -23,8 +33,8 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Switzerland",
-            "dep": "Canada",
+            "ev": "Scotland",
+            "dep": "Brazil",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -37,17 +47,7 @@
             "dep": "Haiti",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Scotland",
-            "dep": "Brazil",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
