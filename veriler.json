@@ -1,11 +1,11 @@
 {
-    "son_guncelleme": "24-06-2026 22:59",
+    "son_guncelleme": "25-06-2026 00:19",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
-            "ev": "Colombia",
-            "dep": "Congo DR",
-            "skor": "1-0",
+            "ev": "Czechia",
+            "dep": "Mexico",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -13,9 +13,9 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Bosnia-Herzegovina",
-            "dep": "Qatar",
-            "skor": "3-1",
+            "ev": "South Africa",
+            "dep": "South Korea",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -23,19 +23,9 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Switzerland",
-            "dep": "Canada",
-            "skor": "2-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Morocco",
-            "dep": "Haiti",
-            "skor": "2-2",
+            "ev": "Ecuador",
+            "dep": "Germany",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -43,11 +33,31 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Scotland",
-            "dep": "Brazil",
-            "skor": "0-2",
+            "ev": "Curaçao",
+            "dep": "Ivory Coast",
+            "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Tunisia",
+            "dep": "Netherlands",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Japan",
+            "dep": "Sweden",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
