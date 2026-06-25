@@ -1,11 +1,11 @@
 {
-    "son_guncelleme": "25-06-2026 13:25",
+    "son_guncelleme": "25-06-2026 16:03",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
-            "ev": "South Africa",
-            "dep": "South Korea",
-            "skor": "1-0",
+            "ev": "Czechia",
+            "dep": "Mexico",
+            "skor": "0-3",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -13,9 +13,19 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Czechia",
-            "dep": "Mexico",
-            "skor": "0-3",
+            "ev": "South Africa",
+            "dep": "South Korea",
+            "skor": "1-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Ecuador",
+            "dep": "Germany",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -33,11 +43,11 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Ecuador",
-            "dep": "Germany",
+            "ev": "Tunisia",
+            "dep": "Netherlands",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -45,16 +55,6 @@
             "lig": "FIFA World Cup",
             "ev": "Japan",
             "dep": "Sweden",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Tunisia",
-            "dep": "Netherlands",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
