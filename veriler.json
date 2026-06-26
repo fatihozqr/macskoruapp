@@ -1,63 +1,63 @@
 {
-    "son_guncelleme": "25-06-2026 23:45",
+    "son_guncelleme": "26-06-2026 01:54",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
-            "ev": "South Africa",
-            "dep": "South Korea",
-            "skor": "1-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Czechia",
-            "dep": "Mexico",
-            "skor": "0-3",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Curaçao",
-            "dep": "Ivory Coast",
-            "skor": "0-2",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Ecuador",
-            "dep": "Germany",
-            "skor": "2-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Japan",
-            "dep": "Sweden",
+            "ev": "Turkey",
+            "dep": "United States",
             "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Tunisia",
-            "dep": "Netherlands",
-            "skor": "0-2",
-            "dakika": "CANLI",
+            "ev": "Paraguay",
+            "dep": "Australia",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Norway",
+            "dep": "France",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Senegal",
+            "dep": "Iraq",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Uruguay",
+            "dep": "Spain",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Cape Verde Islands",
+            "dep": "Saudi Arabia",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
