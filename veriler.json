@@ -1,16 +1,6 @@
 {
-    "son_guncelleme": "26-06-2026 22:10",
+    "son_guncelleme": "26-06-2026 23:35",
     "canli_maclar": [
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Turkey",
-            "dep": "United States",
-            "skor": "3-2",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "FIFA World Cup",
             "ev": "Paraguay",
@@ -23,9 +13,9 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Norway",
-            "dep": "France",
-            "skor": "1-4",
+            "ev": "Turkey",
+            "dep": "United States",
+            "skor": "3-2",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -43,9 +33,9 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Uruguay",
-            "dep": "Spain",
-            "skor": "0-0",
+            "ev": "Norway",
+            "dep": "France",
+            "skor": "1-4",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -57,7 +47,17 @@
             "dep": "Saudi Arabia",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Uruguay",
+            "dep": "Spain",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
