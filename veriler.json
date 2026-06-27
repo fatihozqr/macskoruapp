@@ -1,16 +1,6 @@
 {
-    "son_guncelleme": "27-06-2026 08:16",
+    "son_guncelleme": "27-06-2026 10:28",
     "canli_maclar": [
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Uruguay",
-            "dep": "Spain",
-            "skor": "0-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "FIFA World Cup",
             "ev": "Cape Verde Islands",
@@ -23,11 +13,11 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "New Zealand",
-            "dep": "Belgium",
-            "skor": "1-5",
+            "ev": "Uruguay",
+            "dep": "Spain",
+            "skor": "0-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -43,11 +33,11 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Panama",
-            "dep": "England",
-            "skor": "0-0",
+            "ev": "New Zealand",
+            "dep": "Belgium",
+            "skor": "1-5",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -55,6 +45,26 @@
             "lig": "FIFA World Cup",
             "ev": "Croatia",
             "dep": "Ghana",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Panama",
+            "dep": "England",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Congo DR",
+            "dep": "Uzbekistan",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -65,16 +75,6 @@
             "lig": "FIFA World Cup",
             "ev": "Colombia",
             "dep": "Portugal",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Congo DR",
-            "dep": "Uzbekistan",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
