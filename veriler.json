@@ -1,16 +1,6 @@
 {
-    "son_guncelleme": "27-06-2026 21:33",
+    "son_guncelleme": "27-06-2026 22:41",
     "canli_maclar": [
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Cape Verde Islands",
-            "dep": "Saudi Arabia",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "FIFA World Cup",
             "ev": "Uruguay",
@@ -23,11 +13,11 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Egypt",
-            "dep": "Iran",
-            "skor": "1-1",
+            "ev": "Cape Verde Islands",
+            "dep": "Saudi Arabia",
+            "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,17 +27,17 @@
             "dep": "Belgium",
             "skor": "1-5",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Croatia",
-            "dep": "Ghana",
-            "skor": "0-0",
+            "ev": "Egypt",
+            "dep": "Iran",
+            "skor": "1-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -55,8 +45,28 @@
             "lig": "FIFA World Cup",
             "ev": "Panama",
             "dep": "England",
-            "skor": "0-0",
+            "skor": "0-2",
             "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Croatia",
+            "dep": "Ghana",
+            "skor": "1-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Colombia",
+            "dep": "Portugal",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -68,16 +78,6 @@
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Colombia",
-            "dep": "Portugal",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
