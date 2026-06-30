@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "30-06-2026 16:05",
+    "son_guncelleme": "30-06-2026 18:12",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
@@ -7,7 +7,7 @@
             "dep": "Morocco",
             "skor": "3-4",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -15,8 +15,8 @@
             "lig": "FIFA World Cup",
             "ev": "Ivory Coast",
             "dep": "Norway",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
+            "skor": "0-1",
+            "dakika": "CANLI",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
