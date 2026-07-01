@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "01-07-2026 20:13",
+    "son_guncelleme": "01-07-2026 21:51",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
@@ -17,7 +17,7 @@
             "dep": "Congo DR",
             "skor": "2-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -25,9 +25,9 @@
             "lig": "FIFA World Cup",
             "ev": "Belgium",
             "dep": "Senegal",
-            "skor": "0-0",
+            "skor": "0-2",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +37,7 @@
             "dep": "Bosnia-Herzegovina",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
