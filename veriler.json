@@ -1,11 +1,21 @@
 {
-    "son_guncelleme": "03-07-2026 23:45",
+    "son_guncelleme": "04-07-2026 01:21",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
-            "ev": "Switzerland",
-            "dep": "Algeria",
-            "skor": "2-0",
+            "ev": "Colombia",
+            "dep": "Ghana",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Canada",
+            "dep": "Morocco",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -13,21 +23,11 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Australia",
-            "dep": "Egypt",
-            "skor": "3-5",
+            "ev": "Paraguay",
+            "dep": "France",
+            "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Argentina",
-            "dep": "Cape Verde Islands",
-            "skor": "1-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
