@@ -1,13 +1,13 @@
 {
-    "son_guncelleme": "04-07-2026 01:21",
+    "son_guncelleme": "04-07-2026 05:06",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
             "ev": "Colombia",
             "dep": "Ghana",
-            "skor": "0-0",
+            "skor": "2-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -17,7 +17,7 @@
             "dep": "Morocco",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
