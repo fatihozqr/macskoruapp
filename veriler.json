@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "05-07-2026 22:35",
+    "son_guncelleme": "05-07-2026 23:42",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
@@ -7,17 +7,7 @@
             "dep": "Norway",
             "skor": "1-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Mexico",
-            "dep": "England",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
