@@ -1,11 +1,11 @@
 {
-    "son_guncelleme": "04-07-2026 23:44",
+    "son_guncelleme": "05-07-2026 01:27",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
-            "ev": "Colombia",
-            "dep": "Ghana",
-            "skor": "1-0",
+            "ev": "Brazil",
+            "dep": "Norway",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -13,19 +13,9 @@
         },
         {
             "lig": "FIFA World Cup",
-            "ev": "Canada",
-            "dep": "Morocco",
-            "skor": "0-3",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Paraguay",
-            "dep": "France",
-            "skor": "0-1",
+            "ev": "Mexico",
+            "dep": "England",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
