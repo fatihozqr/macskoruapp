@@ -1,12 +1,12 @@
 {
-    "son_guncelleme": "06-07-2026 01:26",
+    "son_guncelleme": "06-07-2026 06:06",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
             "ev": "Mexico",
             "dep": "England",
-            "skor": "0-0",
-            "dakika": "CANLI",
+            "skor": "2-3",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -27,7 +27,7 @@
             "dep": "Belgium",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
