@@ -1,13 +1,33 @@
 {
-    "son_guncelleme": "05-07-2026 23:42",
+    "son_guncelleme": "06-07-2026 01:26",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
-            "ev": "Brazil",
-            "dep": "Norway",
-            "skor": "1-2",
+            "ev": "Mexico",
+            "dep": "England",
+            "skor": "0-0",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "Portugal",
+            "dep": "Spain",
+            "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "FIFA World Cup",
+            "ev": "United States",
+            "dep": "Belgium",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
