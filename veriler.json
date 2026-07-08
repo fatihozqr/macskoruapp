@@ -1,36 +1,5 @@
 {
-    "son_guncelleme": "07-07-2026 23:28",
-    "canli_maclar": [
-        {
-            "lig": "FIFA World Cup",
-            "ev": "United States",
-            "dep": "Belgium",
-            "skor": "1-4",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Argentina",
-            "dep": "Egypt",
-            "skor": "3-2",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Switzerland",
-            "dep": "Colombia",
-            "skor": "4-3",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        }
-    ],
+    "son_guncelleme": "08-07-2026 01:04",
+    "canli_maclar": [],
     "debug": "Football-Data Basarili"
 }
