@@ -1,16 +1,5 @@
 {
-    "son_guncelleme": "12-07-2026 23:36",
-    "canli_maclar": [
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Argentina",
-            "dep": "Switzerland",
-            "skor": "3-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        }
-    ],
+    "son_guncelleme": "13-07-2026 01:13",
+    "canli_maclar": [],
     "debug": "Football-Data Basarili"
 }
