@@ -1,13 +1,13 @@
 {
-    "son_guncelleme": "15-07-2026 19:41",
+    "son_guncelleme": "15-07-2026 20:44",
     "canli_maclar": [
         {
             "lig": "FIFA World Cup",
             "ev": "England",
             "dep": "Argentina",
-            "skor": "0-0",
+            "skor": "1-0",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
