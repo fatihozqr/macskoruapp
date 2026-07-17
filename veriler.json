@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "17-07-2026 08:59",
+    "son_guncelleme": "17-07-2026 10:56",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
@@ -13,21 +13,21 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "Fluminense FC",
-            "dep": "RB Bragantino",
+            "ev": "Mirassol FC",
+            "dep": "Grêmio FBPA",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "Mirassol FC",
-            "dep": "Grêmio FBPA",
+            "ev": "Fluminense FC",
+            "dep": "RB Bragantino",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
