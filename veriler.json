@@ -1,16 +1,5 @@
 {
-    "son_guncelleme": "19-07-2026 23:41",
-    "canli_maclar": [
-        {
-            "lig": "FIFA World Cup",
-            "ev": "Spain",
-            "dep": "Argentina",
-            "skor": "1-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        }
-    ],
+    "son_guncelleme": "20-07-2026 04:55",
+    "canli_maclar": [],
     "debug": "Football-Data Basarili"
 }
