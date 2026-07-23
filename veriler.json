@@ -1,6 +1,16 @@
 {
-    "son_guncelleme": "23-07-2026 12:53",
+    "son_guncelleme": "23-07-2026 15:09",
     "canli_maclar": [
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "São Paulo FC",
+            "dep": "CA Paranaense",
+            "skor": "1-2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
         {
             "lig": "Campeonato Brasileiro Série A",
             "ev": "Chapecoense AF",
@@ -15,16 +25,6 @@
             "lig": "Campeonato Brasileiro Série A",
             "ev": "SC Internacional",
             "dep": "Cruzeiro EC",
-            "skor": "1-2",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "São Paulo FC",
-            "dep": "CA Paranaense",
             "skor": "1-2",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -47,7 +47,7 @@
             "dep": "Clube do Remo",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
