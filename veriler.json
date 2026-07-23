@@ -1,11 +1,11 @@
 {
-    "son_guncelleme": "23-07-2026 11:18",
+    "son_guncelleme": "23-07-2026 12:53",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "São Paulo FC",
-            "dep": "CA Paranaense",
-            "skor": "1-2",
+            "ev": "Chapecoense AF",
+            "dep": "CR Flamengo",
+            "skor": "0-4",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -23,9 +23,19 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "Chapecoense AF",
-            "dep": "CR Flamengo",
-            "skor": "0-4",
+            "ev": "São Paulo FC",
+            "dep": "CA Paranaense",
+            "skor": "1-2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "Botafogo FR",
+            "dep": "EC Vitória",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -35,16 +45,6 @@
             "lig": "Campeonato Brasileiro Série A",
             "ev": "SC Corinthians Paulista",
             "dep": "Clube do Remo",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "Botafogo FR",
-            "dep": "EC Vitória",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
