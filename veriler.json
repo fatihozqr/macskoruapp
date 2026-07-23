@@ -1,13 +1,53 @@
 {
-    "son_guncelleme": "22-07-2026 22:55",
+    "son_guncelleme": "23-07-2026 00:06",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "Coritiba FBC",
-            "dep": "SE Palmeiras",
-            "skor": "0-1",
+            "ev": "SC Internacional",
+            "dep": "Cruzeiro EC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "Chapecoense AF",
+            "dep": "CR Flamengo",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "São Paulo FC",
+            "dep": "CA Paranaense",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "SC Corinthians Paulista",
+            "dep": "Clube do Remo",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "Botafogo FR",
+            "dep": "EC Vitória",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
