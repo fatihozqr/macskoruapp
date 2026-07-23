@@ -1,10 +1,10 @@
 {
-    "son_guncelleme": "23-07-2026 21:48",
+    "son_guncelleme": "23-07-2026 22:43",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "São Paulo FC",
-            "dep": "CA Paranaense",
+            "ev": "SC Internacional",
+            "dep": "Cruzeiro EC",
             "skor": "1-2",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -17,16 +17,26 @@
             "dep": "CR Flamengo",
             "skor": "0-4",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "SC Internacional",
-            "dep": "Cruzeiro EC",
+            "ev": "São Paulo FC",
+            "dep": "CA Paranaense",
             "skor": "1-2",
             "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "Botafogo FR",
+            "dep": "EC Vitória",
+            "skor": "0-0",
+            "dakika": "CANLI",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -35,16 +45,6 @@
             "lig": "Campeonato Brasileiro Série A",
             "ev": "SC Corinthians Paulista",
             "dep": "Clube do Remo",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "Botafogo FR",
-            "dep": "EC Vitória",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
