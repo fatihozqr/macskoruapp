@@ -1,16 +1,6 @@
 {
-    "son_guncelleme": "25-07-2026 17:41",
+    "son_guncelleme": "25-07-2026 18:41",
     "canli_maclar": [
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "Santos FC",
-            "dep": "Chapecoense AF",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "Campeonato Brasileiro Série A",
             "ev": "CA Paranaense",
@@ -23,11 +13,21 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
+            "ev": "Santos FC",
+            "dep": "Chapecoense AF",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
             "ev": "CR Vasco da Gama",
             "dep": "Mirassol FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
