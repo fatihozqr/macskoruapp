@@ -1,13 +1,13 @@
 {
-    "son_guncelleme": "25-07-2026 21:04",
+    "son_guncelleme": "25-07-2026 22:07",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
             "ev": "CA Paranaense",
             "dep": "SC Internacional",
             "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -16,7 +16,7 @@
             "ev": "Santos FC",
             "dep": "Chapecoense AF",
             "skor": "0-0",
-            "dakika": "YAKINDA",
+            "dakika": "CANLI",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
