@@ -1,13 +1,33 @@
 {
-    "son_guncelleme": "28-07-2026 23:58",
+    "son_guncelleme": "29-07-2026 03:29",
     "canli_maclar": [
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "CA Mineiro",
+            "dep": "RB Bragantino",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "Chapecoense AF",
+            "dep": "CR Vasco da Gama",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
         {
             "lig": "Campeonato Brasileiro Série A",
             "ev": "São Paulo FC",
             "dep": "Santos FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -23,18 +43,18 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "CA Mineiro",
-            "dep": "RB Bragantino",
+            "ev": "Mirassol FC",
+            "dep": "Clube do Remo",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "Chapecoense AF",
-            "dep": "CR Vasco da Gama",
+            "ev": "SC Internacional",
+            "dep": "CR Flamengo",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
