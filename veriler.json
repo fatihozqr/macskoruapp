@@ -1,6 +1,26 @@
 {
-    "son_guncelleme": "29-07-2026 20:37",
+    "son_guncelleme": "29-07-2026 21:35",
     "canli_maclar": [
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "Botafogo FR",
+            "dep": "Grêmio FBPA",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "São Paulo FC",
+            "dep": "Santos FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
         {
             "lig": "Campeonato Brasileiro Série A",
             "ev": "Chapecoense AF",
@@ -17,24 +37,14 @@
             "dep": "RB Bragantino",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "São Paulo FC",
-            "dep": "Santos FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "Botafogo FR",
-            "dep": "Grêmio FBPA",
+            "ev": "SC Internacional",
+            "dep": "CR Flamengo",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -48,16 +58,6 @@
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "SC Internacional",
-            "dep": "CR Flamengo",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
