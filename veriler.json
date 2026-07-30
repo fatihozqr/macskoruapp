@@ -1,6 +1,16 @@
 {
-    "son_guncelleme": "30-07-2026 15:23",
+    "son_guncelleme": "30-07-2026 17:01",
     "canli_maclar": [
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "EC Vitória",
+            "dep": "SE Palmeiras",
+            "skor": "0-4",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
         {
             "lig": "Campeonato Brasileiro Série A",
             "ev": "Fluminense FC",
@@ -13,21 +23,11 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "EC Vitória",
-            "dep": "SE Palmeiras",
-            "skor": "0-4",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
             "ev": "SC Corinthians Paulista",
             "dep": "CA Paranaense",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
