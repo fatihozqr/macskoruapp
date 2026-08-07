@@ -1,5 +1,26 @@
 {
-    "son_guncelleme": "06-08-2026 14:41",
-    "canli_maclar": [],
+    "son_guncelleme": "07-08-2026 00:18",
+    "canli_maclar": [
+        {
+            "lig": "Eredivisie",
+            "ev": "SC Cambuur-Leeuwarden",
+            "dep": "SBV Excelsior",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primeira Liga",
+            "ev": "GD Estoril Praia",
+            "dep": "FC Famalicão",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        }
+    ],
     "debug": "Football-Data Basarili"
 }
