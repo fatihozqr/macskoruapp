@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "07-08-2026 20:17",
+    "son_guncelleme": "07-08-2026 21:04",
     "canli_maclar": [
         {
             "lig": "Eredivisie",
@@ -7,7 +7,7 @@
             "dep": "SBV Excelsior",
             "skor": "0-4",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -15,9 +15,9 @@
             "lig": "Primeira Liga",
             "ev": "GD Estoril Praia",
             "dep": "FC Famalicão",
-            "skor": "0-1",
+            "skor": "1-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
