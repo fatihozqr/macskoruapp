@@ -1,10 +1,10 @@
 {
-    "son_guncelleme": "08-08-2026 16:11",
+    "son_guncelleme": "08-08-2026 16:54",
     "canli_maclar": [
         {
-            "lig": "Primeira Liga",
-            "ev": "CS Marítimo",
-            "dep": "Casa Pia AC",
+            "lig": "Eredivisie",
+            "ev": "NEC",
+            "dep": "Telstar 1963",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -12,9 +12,9 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Eredivisie",
-            "ev": "NEC",
-            "dep": "Telstar 1963",
+            "lig": "Primeira Liga",
+            "ev": "CS Marítimo",
+            "dep": "Casa Pia AC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -37,7 +37,7 @@
             "dep": "FC Arouca",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -52,6 +52,16 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
+            "lig": "Eredivisie",
+            "ev": "AZ",
+            "dep": "ADO Den Haag",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
             "lig": "Campeonato Brasileiro Série A",
             "ev": "Grêmio FBPA",
             "dep": "São Paulo FC",
@@ -62,22 +72,12 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Eredivisie",
-            "ev": "AZ",
-            "dep": "ADO Den Haag",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
             "lig": "Primeira Liga",
             "ev": "CF Estrela da Amadora",
             "dep": "Sporting Clube de Portugal",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
