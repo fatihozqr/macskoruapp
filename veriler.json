@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "09-08-2026 18:01",
+    "son_guncelleme": "09-08-2026 18:55",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
@@ -7,7 +7,7 @@
             "dep": "Fluminense FC",
             "skor": "1-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -16,16 +16,6 @@
             "ev": "Sparta Rotterdam",
             "dep": "Feyenoord Rotterdam",
             "skor": "0-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Eredivisie",
-            "ev": "PEC Zwolle",
-            "dep": "AFC Ajax",
-            "skor": "0-2",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -42,12 +32,22 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
+            "lig": "Eredivisie",
+            "ev": "PEC Zwolle",
+            "dep": "AFC Ajax",
+            "skor": "0-2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
             "lig": "Campeonato Brasileiro Série A",
             "ev": "Cruzeiro EC",
             "dep": "Mirassol FC",
             "skor": "3-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -57,7 +57,7 @@
             "dep": "FC Twente '65",
             "skor": "1-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -66,16 +66,6 @@
             "ev": "FC Porto",
             "dep": "FC Alverca",
             "skor": "2-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "SE Palmeiras",
-            "dep": "SC Internacional",
-            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -92,12 +82,22 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Primeira Liga",
-            "ev": "Moreirense FC",
-            "dep": "Sporting Clube de Braga",
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "SE Palmeiras",
+            "dep": "SC Internacional",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primeira Liga",
+            "ev": "Gil Vicente FC",
+            "dep": "Rio Ave FC",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -113,8 +113,18 @@
         },
         {
             "lig": "Primeira Liga",
-            "ev": "Gil Vicente FC",
-            "dep": "Rio Ave FC",
+            "ev": "Moreirense FC",
+            "dep": "Sporting Clube de Braga",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "Santos FC",
+            "dep": "CA Paranaense",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -133,21 +143,11 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "Santos FC",
-            "dep": "CA Paranaense",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
             "ev": "CR Flamengo",
             "dep": "EC Vitória",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
