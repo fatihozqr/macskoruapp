@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "09-08-2026 08:22",
+    "son_guncelleme": "09-08-2026 09:11",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
@@ -7,7 +7,7 @@
             "dep": "Fluminense FC",
             "skor": "1-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -23,18 +23,18 @@
         },
         {
             "lig": "Eredivisie",
-            "ev": "FC Groningen",
-            "dep": "FC Utrecht",
+            "ev": "PEC Zwolle",
+            "dep": "AFC Ajax",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Eredivisie",
-            "ev": "PEC Zwolle",
-            "dep": "AFC Ajax",
+            "ev": "FC Groningen",
+            "dep": "FC Utrecht",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -57,7 +57,7 @@
             "dep": "FC Twente '65",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -65,16 +65,6 @@
             "lig": "Primeira Liga",
             "ev": "FC Porto",
             "dep": "FC Alverca",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "EC Bahia",
-            "dep": "CR Vasco da Gama",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -92,9 +82,19 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
+            "lig": "Campeonato Brasileiro Série A",
+            "ev": "EC Bahia",
+            "dep": "CR Vasco da Gama",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
             "lig": "Primeira Liga",
-            "ev": "Gil Vicente FC",
-            "dep": "Rio Ave FC",
+            "ev": "Sport Lisboa e Benfica",
+            "dep": "Académico de Viseu FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -113,11 +113,11 @@
         },
         {
             "lig": "Primeira Liga",
-            "ev": "Sport Lisboa e Benfica",
-            "dep": "Académico de Viseu FC",
+            "ev": "Gil Vicente FC",
+            "dep": "Rio Ave FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
