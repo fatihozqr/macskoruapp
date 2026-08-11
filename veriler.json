@@ -1,13 +1,13 @@
 {
-    "son_guncelleme": "10-08-2026 23:27",
+    "son_guncelleme": "11-08-2026 00:02",
     "canli_maclar": [
         {
-            "lig": "Primeira Liga",
-            "ev": "CD Santa Clara",
-            "dep": "CD Nacional",
-            "skor": "2-2",
+            "lig": "Copa Libertadores",
+            "ev": "Fluminense FC",
+            "dep": "CS Independiente Rivadavia",
+            "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
