@@ -1,23 +1,43 @@
 {
-    "son_guncelleme": "13-08-2026 23:42",
+    "son_guncelleme": "14-08-2026 00:44",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
-            "ev": "Cruzeiro EC",
-            "dep": "CR Flamengo",
-            "skor": "1-1",
+            "ev": "CA Rosario Central",
+            "dep": "SC Corinthians Paulista",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Eredivisie",
+            "ev": "Telstar 1963",
+            "dep": "Sparta Rotterdam",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Wolverhampton Wanderers FC",
+            "dep": "Blackburn Rovers FC",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Copa Libertadores",
-            "ev": "Mirassol FC",
-            "dep": "LDU de Quito",
+            "lig": "Primeira Liga",
+            "ev": "Sporting Clube de Portugal",
+            "dep": "Vitória SC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
