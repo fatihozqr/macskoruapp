@@ -1,10 +1,10 @@
 {
-    "son_guncelleme": "17-08-2026 22:56",
+    "son_guncelleme": "17-08-2026 23:30",
     "canli_maclar": [
         {
-            "lig": "Championship",
-            "ev": "Cardiff City FC",
-            "dep": "Wrexham AFC",
+            "lig": "Primera Division",
+            "ev": "RC Deportivo La Coruña",
+            "dep": "Elche CF",
             "skor": "1-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -12,12 +12,12 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Primera Division",
-            "ev": "RC Deportivo La Coruña",
-            "dep": "Elche CF",
+            "lig": "Championship",
+            "ev": "Cardiff City FC",
+            "dep": "Wrexham AFC",
             "skor": "1-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -27,7 +27,7 @@
             "dep": "Sport Lisboa e Benfica",
             "skor": "0-7",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -35,9 +35,9 @@
             "lig": "Campeonato Brasileiro Série A",
             "ev": "SC Internacional",
             "dep": "Clube do Remo",
-            "skor": "0-0",
+            "skor": "1-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
