@@ -1,16 +1,6 @@
 {
-    "son_guncelleme": "19-08-2026 03:24",
+    "son_guncelleme": "19-08-2026 04:08",
     "canli_maclar": [
-        {
-            "lig": "Copa Libertadores",
-            "ev": "CD Universidad Católica",
-            "dep": "Estudiantes de La Plata",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "Copa Libertadores",
             "ev": "CAR Independiente del Valle",
@@ -22,9 +12,9 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Primera Division",
-            "ev": "Club Atlético de Madrid",
-            "dep": "Málaga CF",
+            "lig": "Copa Libertadores",
+            "ev": "CD Universidad Católica",
+            "dep": "Estudiantes de La Plata",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
@@ -32,12 +22,12 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Copa Libertadores",
-            "ev": "CD Coquimbo Unido",
-            "dep": "CA Platense",
+            "lig": "Primera Division",
+            "ev": "Club Atlético de Madrid",
+            "dep": "Málaga CF",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -48,6 +38,16 @@
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Copa Libertadores",
+            "ev": "CD Coquimbo Unido",
+            "dep": "CA Platense",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
