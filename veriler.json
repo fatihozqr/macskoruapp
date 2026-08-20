@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "20-08-2026 09:16",
+    "son_guncelleme": "20-08-2026 09:53",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -7,7 +7,7 @@
             "dep": "Cruzeiro EC",
             "skor": "2-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -27,7 +27,7 @@
             "dep": "Mirassol FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
