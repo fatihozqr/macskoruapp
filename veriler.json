@@ -1,11 +1,11 @@
 {
-    "son_guncelleme": "19-08-2026 23:54",
+    "son_guncelleme": "20-08-2026 01:25",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
-            "ev": "CD Universidad Católica",
-            "dep": "Estudiantes de La Plata",
-            "skor": "0-3",
+            "ev": "CR Flamengo",
+            "dep": "Cruzeiro EC",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -13,9 +13,9 @@
         },
         {
             "lig": "Primera Division",
-            "ev": "Club Atlético de Madrid",
-            "dep": "Málaga CF",
-            "skor": "2-0",
+            "ev": "Rayo Vallecano de Madrid",
+            "dep": "Deportivo Alavés",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -23,21 +23,11 @@
         },
         {
             "lig": "Copa Libertadores",
-            "ev": "CD Coquimbo Unido",
-            "dep": "CA Platense",
+            "ev": "LDU de Quito",
+            "dep": "Mirassol FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Copa Libertadores",
-            "ev": "Club Cerro Porteño",
-            "dep": "SE Palmeiras",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
