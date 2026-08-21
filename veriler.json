@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "21-08-2026 22:41",
+    "son_guncelleme": "21-08-2026 23:02",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -17,16 +17,6 @@
             "dep": "RC Strasbourg Alsace",
             "skor": "4-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Primera Division",
-            "ev": "Real Betis Balompié",
-            "dep": "Real Sociedad de Fútbol",
-            "skor": "1-0",
-            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -36,6 +26,16 @@
             "ev": "Arsenal FC",
             "dep": "Coventry City FC",
             "skor": "3-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "Real Betis Balompié",
+            "dep": "Real Sociedad de Fútbol",
+            "skor": "1-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
