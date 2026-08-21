@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "21-08-2026 19:01",
+    "son_guncelleme": "21-08-2026 19:32",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -7,7 +7,7 @@
             "dep": "CA Rosario Central",
             "skor": "1-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -15,6 +15,16 @@
             "lig": "Ligue 1",
             "ev": "Olympique de Marseille",
             "dep": "RC Strasbourg Alsace",
+            "skor": "0-0",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "Real Betis Balompié",
+            "dep": "Real Sociedad de Fútbol",
             "skor": "0-0",
             "dakika": "CANLI",
             "ai_tahmini": "MS 1",
@@ -25,19 +35,9 @@
             "lig": "Premier League",
             "ev": "Arsenal FC",
             "dep": "Coventry City FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Primera Division",
-            "ev": "Real Betis Balompié",
-            "dep": "Real Sociedad de Fútbol",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "skor": "2-0",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +47,7 @@
             "dep": "SBV Excelsior",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
