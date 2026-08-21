@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "21-08-2026 22:08",
+    "son_guncelleme": "21-08-2026 22:41",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -7,7 +7,7 @@
             "dep": "CA Rosario Central",
             "skor": "1-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -16,16 +16,6 @@
             "ev": "Olympique de Marseille",
             "dep": "RC Strasbourg Alsace",
             "skor": "4-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Premier League",
-            "ev": "Arsenal FC",
-            "dep": "Coventry City FC",
-            "skor": "3-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -42,12 +32,22 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
+            "lig": "Premier League",
+            "ev": "Arsenal FC",
+            "dep": "Coventry City FC",
+            "skor": "3-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
             "lig": "Eredivisie",
             "ev": "NEC",
             "dep": "SBV Excelsior",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
