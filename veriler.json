@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "24-08-2026 19:17",
+    "son_guncelleme": "24-08-2026 19:49",
     "canli_maclar": [
         {
             "lig": "Serie A",
@@ -7,7 +7,7 @@
             "dep": "SS Lazio",
             "skor": "0-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -16,8 +16,8 @@
             "ev": "CA Osasuna",
             "dep": "Levante UD",
             "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -25,8 +25,8 @@
             "lig": "Serie A",
             "ev": "AS Roma",
             "dep": "ACF Fiorentina",
-            "skor": "0-0",
-            "dakika": "CANLI",
+            "skor": "1-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -35,9 +35,9 @@
             "lig": "Premier League",
             "ev": "Fulham FC",
             "dep": "Chelsea FC",
-            "skor": "0-1",
+            "skor": "1-2",
             "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -45,8 +45,8 @@
             "lig": "Primeira Liga",
             "ev": "Gil Vicente FC",
             "dep": "Casa Pia AC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
+            "skor": "1-0",
+            "dakika": "CANLI",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -56,8 +56,8 @@
             "ev": "Málaga CF",
             "dep": "RC Deportivo La Coruña",
             "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -67,7 +67,7 @@
             "dep": "CA Paranaense",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
