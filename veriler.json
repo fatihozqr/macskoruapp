@@ -1,13 +1,13 @@
 {
-    "son_guncelleme": "26-08-2026 06:02",
+    "son_guncelleme": "26-08-2026 07:04",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
             "ev": "CAR Independiente del Valle",
             "dep": "CD Tolima",
-            "skor": "0-0",
+            "skor": "3-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -17,7 +17,7 @@
             "dep": "Real Sociedad de Fútbol",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
