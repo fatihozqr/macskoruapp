@@ -1,31 +1,11 @@
 {
-    "son_guncelleme": "02-09-2026 18:45",
+    "son_guncelleme": "02-09-2026 21:22",
     "canli_maclar": [
-        {
-            "lig": "Championship",
-            "ev": "Millwall FC",
-            "dep": "Wrexham AFC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "Championship",
             "ev": "West Bromwich Albion FC",
             "dep": "Charlton Athletic FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "Queens Park Rangers FC",
-            "dep": "Cardiff City FC",
-            "skor": "0-0",
+            "skor": "1-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -33,11 +13,31 @@
         },
         {
             "lig": "Championship",
-            "ev": "Burnley FC",
-            "dep": "Middlesbrough FC",
-            "skor": "0-0",
+            "ev": "Millwall FC",
+            "dep": "Wrexham AFC",
+            "skor": "0-3",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Queens Park Rangers FC",
+            "dep": "Cardiff City FC",
+            "skor": "2-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Championship",
+            "ev": "Burnley FC",
+            "dep": "Middlesbrough FC",
+            "skor": "1-1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +47,7 @@
             "dep": "Mirassol FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
