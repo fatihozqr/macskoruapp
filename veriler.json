@@ -1,51 +1,21 @@
 {
-    "son_guncelleme": "02-09-2026 23:28",
+    "son_guncelleme": "03-09-2026 01:24",
     "canli_maclar": [
         {
-            "lig": "Championship",
-            "ev": "Millwall FC",
-            "dep": "Wrexham AFC",
-            "skor": "0-3",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "West Bromwich Albion FC",
-            "dep": "Charlton Athletic FC",
-            "skor": "1-1",
+            "lig": "Ligue 1",
+            "ev": "Toulouse FC",
+            "dep": "Lille OSC",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Championship",
-            "ev": "Queens Park Rangers FC",
-            "dep": "Cardiff City FC",
-            "skor": "2-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Championship",
-            "ev": "Burnley FC",
-            "dep": "Middlesbrough FC",
-            "skor": "1-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "CR Flamengo",
-            "dep": "Mirassol FC",
-            "skor": "2-0",
+            "lig": "Primera Division",
+            "ev": "Real Sociedad de Fútbol",
+            "dep": "RC Celta de Vigo",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
