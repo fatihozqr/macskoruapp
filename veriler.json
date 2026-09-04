@@ -1,13 +1,13 @@
 {
-    "son_guncelleme": "04-09-2026 18:17",
+    "son_guncelleme": "04-09-2026 20:51",
     "canli_maclar": [
         {
             "lig": "Ligue 1",
             "ev": "Olympique Lyonnais",
             "dep": "AJ Auxerre",
-            "skor": "2-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "skor": "3-1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -15,9 +15,9 @@
             "lig": "Eredivisie",
             "ev": "Sparta Rotterdam",
             "dep": "PEC Zwolle",
-            "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "skor": "2-2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -25,9 +25,9 @@
             "lig": "Bundesliga",
             "ev": "VfB Stuttgart",
             "dep": "1. FC Köln",
-            "skor": "0-0",
+            "skor": "4-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -35,17 +35,7 @@
             "lig": "Serie A",
             "ev": "Genoa CFC",
             "dep": "Como 1907",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Premier League",
-            "ev": "Ipswich Town FC",
-            "dep": "Liverpool FC",
-            "skor": "0-0",
+            "skor": "1-4",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -56,7 +46,17 @@
             "ev": "Real Betis Balompié",
             "dep": "Real Madrid CF",
             "skor": "0-0",
-            "dakika": "YAKINDA",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Premier League",
+            "ev": "Ipswich Town FC",
+            "dep": "Liverpool FC",
+            "skor": "0-2",
+            "dakika": "CANLI",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -65,9 +65,9 @@
             "lig": "Ligue 1",
             "ev": "Paris Saint-Germain FC",
             "dep": "AS Monaco FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "skor": "1-2",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -75,9 +75,9 @@
             "lig": "Primeira Liga",
             "ev": "FC Porto",
             "dep": "Moreirense FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "skor": "2-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
