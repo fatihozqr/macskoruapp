@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "07-09-2026 19:31",
+    "son_guncelleme": "07-09-2026 22:14",
     "canli_maclar": [
         {
             "lig": "Serie A",
@@ -7,7 +7,7 @@
             "dep": "US Lecce",
             "skor": "1-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -17,7 +17,7 @@
             "dep": "RC Celta de Vigo",
             "skor": "1-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -25,9 +25,9 @@
             "lig": "Serie A",
             "ev": "Udinese Calcio",
             "dep": "SS Lazio",
-            "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "skor": "1-2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -36,8 +36,8 @@
             "ev": "GD Estoril Praia",
             "dep": "FC Arouca",
             "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -45,9 +45,9 @@
             "lig": "Primera Division",
             "ev": "Elche CF",
             "dep": "Real Sociedad de Fútbol",
-            "skor": "0-0",
+            "skor": "2-3",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
