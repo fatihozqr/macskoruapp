@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "09-09-2026 11:14",
+    "son_guncelleme": "09-09-2026 15:09",
     "canli_maclar": [
         {
             "lig": "UEFA Champions League",
@@ -7,7 +7,7 @@
             "dep": "Feyenoord Rotterdam",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -17,7 +17,7 @@
             "dep": "Telstar 1963",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -27,7 +27,7 @@
             "dep": "Viking FK",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +47,7 @@
             "dep": "Birmingham City FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -57,7 +57,7 @@
             "dep": "Club Atlético de Madrid",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -83,8 +83,8 @@
         },
         {
             "lig": "UEFA Champions League",
-            "ev": "Sporting Clube de Portugal",
-            "dep": "Galatasaray SK",
+            "ev": "Paris Saint-Germain FC",
+            "dep": "ŠK Slovan Bratislava",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -93,11 +93,11 @@
         },
         {
             "lig": "UEFA Champions League",
-            "ev": "Paris Saint-Germain FC",
-            "dep": "ŠK Slovan Bratislava",
+            "ev": "Sporting Clube de Portugal",
+            "dep": "Galatasaray SK",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -107,7 +107,7 @@
             "dep": "Sport Lisboa e Benfica",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -117,7 +117,7 @@
             "dep": "LDU de Quito",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
