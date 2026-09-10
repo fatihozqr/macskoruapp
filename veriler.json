@@ -1,20 +1,10 @@
 {
-    "son_guncelleme": "10-09-2026 15:01",
+    "son_guncelleme": "10-09-2026 18:21",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
             "ev": "Estudiantes de La Plata",
             "dep": "SC Corinthians Paulista",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "UEFA Champions League",
-            "ev": "Fenerbahçe SK",
-            "dep": "AS Roma",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -25,9 +15,39 @@
             "lig": "UEFA Champions League",
             "ev": "PSV",
             "dep": "FK Shakhtar Donetsk",
+            "skor": "1-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "UEFA Champions League",
+            "ev": "Fenerbahçe SK",
+            "dep": "AS Roma",
+            "skor": "1-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "UEFA Champions League",
+            "ev": "SK Slavia Praha",
+            "dep": "Racing Club de Lens",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "UEFA Champions League",
+            "ev": "Manchester United FC",
+            "dep": "Sabah FK",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -37,7 +57,7 @@
             "dep": "FK Bodø/Glimt",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -52,32 +72,12 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "UEFA Champions League",
-            "ev": "SK Slavia Praha",
-            "dep": "Racing Club de Lens",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "UEFA Champions League",
-            "ev": "Manchester United FC",
-            "dep": "Sabah FK",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
             "lig": "Primeira Liga",
             "ev": "CF Estrela da Amadora",
             "dep": "Sporting Clube de Braga",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
