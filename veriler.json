@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "10-09-2026 01:13",
+    "son_guncelleme": "10-09-2026 06:03",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -7,7 +7,7 @@
             "dep": "SC Corinthians Paulista",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -17,7 +17,7 @@
             "dep": "AS Roma",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -33,16 +33,6 @@
         },
         {
             "lig": "UEFA Champions League",
-            "ev": "Como 1907",
-            "dep": "RB Leipzig",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "UEFA Champions League",
             "ev": "FC Bayern München",
             "dep": "FK Bodø/Glimt",
             "skor": "0-0",
@@ -53,8 +43,18 @@
         },
         {
             "lig": "UEFA Champions League",
-            "ev": "Manchester United FC",
-            "dep": "Sabah FK",
+            "ev": "Como 1907",
+            "dep": "RB Leipzig",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "UEFA Champions League",
+            "ev": "SK Slavia Praha",
+            "dep": "Racing Club de Lens",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -63,8 +63,8 @@
         },
         {
             "lig": "UEFA Champions League",
-            "ev": "SK Slavia Praha",
-            "dep": "Racing Club de Lens",
+            "ev": "Manchester United FC",
+            "dep": "Sabah FK",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
