@@ -1,20 +1,20 @@
 {
-    "son_guncelleme": "14-09-2026 00:13",
+    "son_guncelleme": "14-09-2026 05:05",
     "canli_maclar": [
         {
             "lig": "Serie A",
-            "ev": "Como 1907",
-            "dep": "Parma Calcio 1913",
+            "ev": "Torino FC",
+            "dep": "AS Roma",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Serie A",
-            "ev": "Torino FC",
-            "dep": "AS Roma",
+            "ev": "Como 1907",
+            "dep": "Parma Calcio 1913",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
@@ -27,7 +27,7 @@
             "dep": "CF Estrela da Amadora",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -42,19 +42,19 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Premier League",
-            "ev": "Leeds United FC",
-            "dep": "Newcastle United FC",
+            "lig": "Primera Division",
+            "ev": "Villarreal CF",
+            "dep": "Real Betis Balompié",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Primera Division",
-            "ev": "Villarreal CF",
-            "dep": "Real Betis Balompié",
+            "lig": "Premier League",
+            "ev": "Leeds United FC",
+            "dep": "Newcastle United FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -67,7 +67,7 @@
             "dep": "CS Marítimo",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -87,7 +87,7 @@
             "dep": "Clube do Remo",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
