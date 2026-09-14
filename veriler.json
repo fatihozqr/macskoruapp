@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "14-09-2026 20:31",
+    "son_guncelleme": "14-09-2026 23:25",
     "canli_maclar": [
         {
             "lig": "Serie A",
@@ -7,7 +7,7 @@
             "dep": "AS Roma",
             "skor": "0-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -17,7 +17,7 @@
             "dep": "Parma Calcio 1913",
             "skor": "2-1",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -27,7 +27,7 @@
             "dep": "CF Estrela da Amadora",
             "skor": "3-3",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -35,9 +35,9 @@
             "lig": "Serie A",
             "ev": "FC Internazionale Milano",
             "dep": "Udinese Calcio",
-            "skor": "5-2",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "skor": "5-3",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -46,8 +46,8 @@
             "ev": "Villarreal CF",
             "dep": "Real Betis Balompié",
             "skor": "1-2",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -55,8 +55,8 @@
             "lig": "Premier League",
             "ev": "Leeds United FC",
             "dep": "Newcastle United FC",
-            "skor": "4-0",
-            "dakika": "CANLI",
+            "skor": "4-1",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -65,9 +65,9 @@
             "lig": "Primeira Liga",
             "ev": "Moreirense FC",
             "dep": "CS Marítimo",
-            "skor": "2-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
+            "skor": "3-1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -75,9 +75,9 @@
             "lig": "Primeira Liga",
             "ev": "Sporting Clube de Braga",
             "dep": "GD Estoril Praia",
-            "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "skor": "1-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -86,8 +86,8 @@
             "ev": "EC Bahia",
             "dep": "Clube do Remo",
             "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
