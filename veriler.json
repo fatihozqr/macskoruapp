@@ -1,30 +1,20 @@
 {
-    "son_guncelleme": "16-09-2026 11:48",
+    "son_guncelleme": "16-09-2026 15:40",
     "canli_maclar": [
-        {
-            "lig": "Primera Division",
-            "ev": "RC Deportivo La Coruña",
-            "dep": "Sevilla FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "Primera Division",
             "ev": "Club Atlético de Madrid",
             "dep": "CA Osasuna",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Primera Division",
-            "ev": "Levante UD",
-            "dep": "Athletic Club",
+            "ev": "RC Deportivo La Coruña",
+            "dep": "Sevilla FC",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -35,6 +25,16 @@
             "lig": "Primera Division",
             "ev": "FC Barcelona",
             "dep": "Real Racing Club de Santander",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "Levante UD",
+            "dep": "Athletic Club",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
