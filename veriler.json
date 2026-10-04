@@ -1,16 +1,5 @@
 {
-    "son_guncelleme": "03-10-2026 22:13",
-    "canli_maclar": [
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "CA Mineiro",
-            "dep": "RB Bragantino",
-            "skor": "1-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        }
-    ],
+    "son_guncelleme": "04-10-2026 00:44",
+    "canli_maclar": [],
     "debug": "Football-Data Basarili"
 }
