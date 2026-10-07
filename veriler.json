@@ -1,13 +1,13 @@
 {
-    "son_guncelleme": "07-10-2026 08:52",
+    "son_guncelleme": "07-10-2026 16:05",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "Clube do Remo",
-            "dep": "Grêmio FBPA",
+            "ev": "SC Internacional",
+            "dep": "SC Corinthians Paulista",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -23,11 +23,11 @@
         },
         {
             "lig": "Campeonato Brasileiro Série A",
-            "ev": "SC Internacional",
-            "dep": "SC Corinthians Paulista",
+            "ev": "Clube do Remo",
+            "dep": "Grêmio FBPA",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +47,7 @@
             "dep": "CR Vasco da Gama",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
