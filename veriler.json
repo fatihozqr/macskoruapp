@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "16-10-2026 20:56",
+    "son_guncelleme": "16-10-2026 23:26",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -27,17 +27,7 @@
             "dep": "1. FC Köln",
             "skor": "1-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Ligue 1",
-            "ev": "Le Mans FC",
-            "dep": "Toulouse FC",
-            "skor": "0-3",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +37,17 @@
             "dep": "US Sassuolo Calcio",
             "skor": "4-2",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Ligue 1",
+            "ev": "Le Mans FC",
+            "dep": "Toulouse FC",
+            "skor": "0-3",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -56,7 +56,7 @@
             "ev": "Burnley FC",
             "dep": "Wolverhampton Wanderers FC",
             "skor": "1-2",
-            "dakika": "CANLI",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -66,8 +66,8 @@
             "ev": "RC Deportivo La Coruña",
             "dep": "Levante UD",
             "skor": "1-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -76,8 +76,8 @@
             "ev": "Mirassol FC",
             "dep": "SC Internacional",
             "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
