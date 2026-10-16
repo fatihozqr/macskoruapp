@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "16-10-2026 17:57",
+    "son_guncelleme": "16-10-2026 20:56",
     "canli_maclar": [
         {
             "lig": "Copa Libertadores",
@@ -15,7 +15,7 @@
             "lig": "Eredivisie",
             "ev": "SC Heerenveen",
             "dep": "SBV Excelsior",
-            "skor": "0-0",
+            "skor": "4-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -25,7 +25,7 @@
             "lig": "Bundesliga",
             "ev": "Eintracht Frankfurt",
             "dep": "1. FC Köln",
-            "skor": "0-0",
+            "skor": "1-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
@@ -35,9 +35,9 @@
             "lig": "Ligue 1",
             "ev": "Le Mans FC",
             "dep": "Toulouse FC",
-            "skor": "0-0",
+            "skor": "0-3",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -45,17 +45,7 @@
             "lig": "Serie A",
             "ev": "Frosinone Calcio",
             "dep": "US Sassuolo Calcio",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Primera Division",
-            "ev": "RC Deportivo La Coruña",
-            "dep": "Levante UD",
-            "skor": "0-0",
+            "skor": "4-2",
             "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
@@ -65,9 +55,19 @@
             "lig": "Championship",
             "ev": "Burnley FC",
             "dep": "Wolverhampton Wanderers FC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "skor": "1-2",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 1",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Primera Division",
+            "ev": "RC Deportivo La Coruña",
+            "dep": "Levante UD",
+            "skor": "1-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -77,7 +77,7 @@
             "dep": "SC Internacional",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
+            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
