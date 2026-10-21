@@ -1,16 +1,6 @@
 {
-    "son_guncelleme": "21-10-2026 19:35",
+    "son_guncelleme": "21-10-2026 22:44",
     "canli_maclar": [
-        {
-            "lig": "UEFA Champions League",
-            "ev": "Como 1907",
-            "dep": "Manchester United FC",
-            "skor": "4-1",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
         {
             "lig": "UEFA Champions League",
             "ev": "Lille OSC",
@@ -22,52 +12,22 @@
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
+            "lig": "UEFA Champions League",
+            "ev": "Como 1907",
+            "dep": "Manchester United FC",
+            "skor": "4-1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
             "lig": "Primera Division",
             "ev": "Levante UD",
             "dep": "Athletic Club",
-            "skor": "2-1",
-            "dakika": "CANLI",
+            "skor": "3-1",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "UEFA Champions League",
-            "ev": "Aston Villa FC",
-            "dep": "Viking FK",
-            "skor": "1-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "UEFA Champions League",
-            "ev": "Real Madrid CF",
-            "dep": "RB Leipzig",
-            "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "UEFA Champions League",
-            "ev": "Real Betis Balompié",
-            "dep": "Feyenoord Rotterdam",
-            "skor": "0-0",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "UEFA Champions League",
-            "ev": "FC Bayern München",
-            "dep": "Arsenal FC",
-            "skor": "0-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -75,9 +35,9 @@
             "lig": "UEFA Champions League",
             "ev": "Sporting Clube de Portugal",
             "dep": "LASK Linz",
-            "skor": "1-1",
-            "dakika": "CANLI",
-            "ai_tahmini": "MS 2",
+            "skor": "2-3",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -85,8 +45,8 @@
             "lig": "UEFA Champions League",
             "ev": "FC Internazionale Milano",
             "dep": "FK Shakhtar Donetsk",
-            "skor": "0-0",
-            "dakika": "CANLI",
+            "skor": "1-0",
+            "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
@@ -95,8 +55,48 @@
             "lig": "UEFA Champions League",
             "ev": "Club Brugge KV",
             "dep": "Racing Club de Lens",
-            "skor": "0-0",
-            "dakika": "CANLI",
+            "skor": "3-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "UEFA Champions League",
+            "ev": "Aston Villa FC",
+            "dep": "Viking FK",
+            "skor": "3-1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "UEFA Champions League",
+            "ev": "Real Madrid CF",
+            "dep": "RB Leipzig",
+            "skor": "4-1",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "UEFA Champions League",
+            "ev": "Real Betis Balompié",
+            "dep": "Feyenoord Rotterdam",
+            "skor": "1-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "MS 2",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "UEFA Champions League",
+            "ev": "FC Bayern München",
+            "dep": "Arsenal FC",
+            "skor": "2-2",
+            "dakika": "YAKINDA",
             "ai_tahmini": "KG VAR",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
