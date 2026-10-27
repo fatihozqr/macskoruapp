@@ -1,53 +1,33 @@
 {
-    "son_guncelleme": "26-10-2026 21:49",
+    "son_guncelleme": "27-10-2026 00:59",
     "canli_maclar": [
         {
-            "lig": "Primeira Liga",
-            "ev": "CD Santa Clara",
-            "dep": "Sport Lisboa e Benfica",
-            "skor": "1-2",
+            "lig": "Serie A",
+            "ev": "US Sassuolo Calcio",
+            "dep": "SS Lazio",
+            "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Ligue 1",
-            "ev": "Paris Saint-Germain FC",
-            "dep": "Olympique Lyonnais",
-            "skor": "2-0",
+            "lig": "Serie A",
+            "ev": "Torino FC",
+            "dep": "Como 1907",
+            "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Primera Division",
-            "ev": "Sevilla FC",
-            "dep": "CA Osasuna",
-            "skor": "1-0",
-            "dakika": "CANLI",
             "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "Coritiba FBC",
-            "dep": "Grêmio FBPA",
+            "lig": "Serie A",
+            "ev": "AS Roma",
+            "dep": "Cagliari Calcio",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Campeonato Brasileiro Série A",
-            "ev": "CR Flamengo",
-            "dep": "CA Mineiro",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
