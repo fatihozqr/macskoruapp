@@ -1,10 +1,20 @@
 {
-    "son_guncelleme": "27-10-2026 00:59",
+    "son_guncelleme": "27-10-2026 06:10",
     "canli_maclar": [
         {
             "lig": "Serie A",
             "ev": "US Sassuolo Calcio",
             "dep": "SS Lazio",
+            "skor": "0-0",
+            "dakika": "YAKINDA",
+            "ai_tahmini": "KG VAR",
+            "ai_guven": "%85",
+            "ai_analiz": "Form grafiklerine göre analiz edildi."
+        },
+        {
+            "lig": "Serie A",
+            "ev": "AS Roma",
+            "dep": "Cagliari Calcio",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 1",
@@ -15,16 +25,6 @@
             "lig": "Serie A",
             "ev": "Torino FC",
             "dep": "Como 1907",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
-            "ai_guven": "%85",
-            "ai_analiz": "Form grafiklerine göre analiz edildi."
-        },
-        {
-            "lig": "Serie A",
-            "ev": "AS Roma",
-            "dep": "Cagliari Calcio",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
