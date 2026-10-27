@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "27-10-2026 06:10",
+    "son_guncelleme": "27-10-2026 12:18",
     "canli_maclar": [
         {
             "lig": "Serie A",
@@ -13,18 +13,18 @@
         },
         {
             "lig": "Serie A",
-            "ev": "AS Roma",
-            "dep": "Cagliari Calcio",
+            "ev": "Torino FC",
+            "dep": "Como 1907",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
         {
             "lig": "Serie A",
-            "ev": "Torino FC",
-            "dep": "Como 1907",
+            "ev": "AS Roma",
+            "dep": "Cagliari Calcio",
             "skor": "0-0",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
