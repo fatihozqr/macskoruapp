@@ -1,5 +1,5 @@
 {
-    "son_guncelleme": "29-10-2026 16:00",
+    "son_guncelleme": "29-10-2026 21:01",
     "canli_maclar": [
         {
             "lig": "Campeonato Brasileiro Série A",
@@ -25,7 +25,7 @@
             "lig": "Serie A",
             "ev": "Frosinone Calcio",
             "dep": "US Lecce",
-            "skor": "0-0",
+            "skor": "5-1",
             "dakika": "YAKINDA",
             "ai_tahmini": "MS 2",
             "ai_guven": "%85",
@@ -35,9 +35,9 @@
             "lig": "Serie A",
             "ev": "ACF Fiorentina",
             "dep": "Atalanta BC",
-            "skor": "0-0",
-            "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "skor": "0-1",
+            "dakika": "CANLI",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -47,7 +47,7 @@
             "dep": "Cruzeiro EC",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "MS 1",
+            "ai_tahmini": "MS 2",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         },
@@ -57,7 +57,7 @@
             "dep": "CR Flamengo",
             "skor": "0-0",
             "dakika": "YAKINDA",
-            "ai_tahmini": "KG VAR",
+            "ai_tahmini": "MS 1",
             "ai_guven": "%85",
             "ai_analiz": "Form grafiklerine göre analiz edildi."
         }
